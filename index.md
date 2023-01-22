@@ -6,3 +6,6 @@
 # Arizona State University
 # EGR 314 Spring 2023
 # Travis Kelley
+(/n)
+
+[link](TeamOrganization.md)
