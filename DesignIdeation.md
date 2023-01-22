@@ -14,7 +14,12 @@ The team was tasked with creating ideas of how our project could work. The image
 <b>Organize & Group</b>
 <br>
 From the 100 generated topics, three project concepts were created. Below are the groups of ideas that fit these concepts. The concepts are detailed in a later section of this document.
+<br><br>
+![FinalConcept1](FinalConcept1.PNG)
 <br>
+![FinalConcept2](FinalConcept2.PNG)
+<br>
+![FinalConcept3](FinalConcept3.PNG)
  
 The remaining concepts are detailed below. These ideas weren’t bad, but did not fit into the concepts created for this class
 
