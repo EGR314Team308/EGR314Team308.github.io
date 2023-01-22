@@ -7,8 +7,7 @@ The team was tasked with creating ideas of how our project could work. The image
 
 
 <br>
-#Organize
-Group
+<b>Organize & Group</b>
 <br>
 From the 100 generated topics, three project concepts were created. Below are the groups of ideas that fit these concepts. The concepts are detailed in a later section of this document.
 <br>
