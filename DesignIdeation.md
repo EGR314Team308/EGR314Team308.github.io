@@ -23,3 +23,8 @@ From the 100 generated topics, three project concepts were created. Below are th
  
 The remaining concepts are detailed below. These ideas weren’t bad, but did not fit into the concepts created for this class
 
+<br><br>
+![Leftovers1](Remains1.PNG)
+<br>
+![Leftovers2](Remains2.PNG)
+<br>
