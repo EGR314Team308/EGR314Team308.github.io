@@ -17,9 +17,13 @@ First, as a team, we evaluated the needs of the project sequence and reviewed th
  
 [User Needs, Benchmarking, and Requirements](UserNeeds.md)
 
+After we considered out charter and mission statement, we later moved onto laying out possible user needs and requirements that are needed to the prototype. To create user needs, we used existing customer comments to related product to truly capture thier needs and remedy issues they had. This enable us to create the most accurate user needs and solutions to create a product that serves customer satisfaction and user friendliness. The user needs collected and created were then organized and tranferred into a clear list that will be focused on thorught the creation of this project. By doing this, it allows us to use engineering skills to enable these needs within our prototype. 
+
 <br><br>
 
 [Design Ideation](DesignIdeation.md)
+
+After creating a list of user needs and requirements, we created three designs for consideration for the final prototype. Each team member proposed ideas in a general basis and as a team, we created three different ideas that this project could be based off of. Brainstorming together as a team was very beneficial as it inspired new ideas and some designs that were created were combinations of two different ideas. As a team, we were then able to protoype complete draft designs that fit the needs of the project requirement and are possible candidates for a final design concept that will be implemented into a physical protoype by the end of this semester. 
 
 <br><br>
 
