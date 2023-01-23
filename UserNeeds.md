@@ -7,11 +7,11 @@ This document serves as the holder for research and organization of user require
 <ul>
   <li>The way that our team organized, combined, and split needs into a list was based on basic categories such as hardware, software, user interactivity, safety, and desires.</li> 
   
-  The way that our team assigned the weight of a user needs importance was by seeing which user needs were brought up most frequently in each category. 
+  <li>The way that our team assigned the weight of a user needs importance was by seeing which user needs were brought up most frequently in each category.</li> 
 
-  Our team changed the user needs into specifications by seeing which user needs were the most important and abundant and changing those into specifications. 
+  <li>Our team changed the user needs into specifications by seeing which user needs were the most important and abundant and changing those into specifications.</li> 
 
-  Our team's project will be designed around all of the specifications which were needed as well as all used needs which have been shown to be the most important. 
+  <li>Our team's project will be designed around all of the specifications which were needed as well as all used needs which have been shown to be the most important.</li> 
 </ul>
 <br><br>
 <b>Voice of the Customer Benchmarking</b>
