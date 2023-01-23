@@ -14,4 +14,8 @@ Since the class, and team, requires hands-on work, we will be meeting in person 
   
   
 <b>Team Coordination<b>
-Our team will use discord to verify that assignments are submitted before the deadlines and that each team member approves of the assignments. If team members do not have the required knowledge or skills required for each assignment we will discuss it within the team and if that does not work we will talk to the professor. Our team will meet through discord to make sure that we distribute the work equally and that each team member knows what they are assigned to.  
+Our team will use discord to verify that assignments are submitted before the deadlines and that each team member approves of the assignments. If team members do not have the required knowledge or skills required for each assignment we will discuss it within the team and if that does not work we will talk to the professor. Our team will meet through discord to make sure that we distribute the work equally and that each team member knows what they are assigned to. 
+  
+<br><br>
+![Communication](Communication.PNG)
+<br>
