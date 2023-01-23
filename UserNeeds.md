@@ -24,7 +24,7 @@ The five categories, as mentioned before, are hardware, software, user interacti
 Weather stations are used to gauge and electronically document the current weather conditions. This includes factors such as humidity, temperature, wind speed, and sun coverage. As people find themselves in a world with drastic weather, they will desire a way to personally check the conditions around them.
 Our project seeks to construct a mobile weather station which will collect weather data using digital sensors. This data will be analyzed by the product in order to activate a mechanical output. The current project designs use a motor as the output. The product will be powered by an on-board power supply, such as batteries or a solar cell. We seek for the product to transmit collected data to wireless devices held by the user in an easily accessible format.
 <br><br>
-Stakeholders
+<b>Stakeholders</b>
 <br><br>
 Target group: People who desire accurate weather conditions quickly. They do not need much technical knowledge.<br>
 Target purchaser: Target group profiles are individuals with residences where weather conditions are extreme or constantly changing.<br>
