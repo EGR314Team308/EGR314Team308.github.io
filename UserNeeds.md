@@ -7,3 +7,11 @@ This document serves as the holder for research and organization of user require
 <b>Voice of the Customer Benchmarking</b>
 <br><br>
 This is the research for products already on the market. For each at least one positive and negative comment will be taken and analyzed. User needs will be brought from the comments. Below is that process with five products on the market today.
+
+<br><br>
+<b>Organize</b>
+<br><br>
+The team initially took all the comments gathered from the separate products and put them into a Google Jamboard (See screenshot below) looking at all of the needs, five categories were found to sort them into: hardware, software, user interaction, safety, and user desires. Although some needs could fit into two, or more, categories, all but two were eventually fitted into categories.
+<br><br>
+
+The five categories, as mentioned before, are hardware, software, user interaction, safety, and user desires. Hardware being the electrical components inside and how they are put together. This includes soldering, component selection, pcb manufacturing, and buttons. Outer shells, any paint, or any cosmetic features will not be included in this category. Software being the inevitable coding involved with this project. This category includes all the internal calculations that are needed and the outputs given to the hardware. User interaction includes the parts that the user will use to use the final design. Safety includes things such as the outer shell, the interaction with weather, and any interaction from the user to the electronics. User desires is a miscellaneous category of requirements that couldn’t fit into any categories, but are still important. 
