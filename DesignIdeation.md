@@ -1,6 +1,5 @@
 <b><h>Design Ideation</h></b>
 <br><br>
-<br><br>
 <ul>
   <li>The way that our team organized, combined, and split needs into a list was based on basic categories such as hardware, software, user interactivity, safety, and desires.</li> 
   
