@@ -7,7 +7,7 @@
 Our team will communicate primarily through Discord on a regular basis. It will be expected for team members to check for updates daily. In the absence of a response over Discord, we will send messages with a group text. 
 If any team member personally receives correspondence from the instructor relating to the group, they will be responsible for notifying the rest of the team. This will primarily be done using Discord, and main information that is obtained through email will be forwarded and/ or carbon copied. 
 Our team members’ phone numbers and emails can be found in the chart below and our team discord has been made. Everyone has been added, but if there are difficulties here is the invite link: https://discord.gg/97bPcvWd
-  
+   
   
 **Meeting Coordination**
 
