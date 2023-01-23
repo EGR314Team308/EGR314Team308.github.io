@@ -40,7 +40,19 @@ This is the research for products already on the market. For each at least one p
 The team initially took all the comments gathered from the separate products and put them into a Google Jamboard (See screenshot below) looking at all of the needs, five categories were found to sort them into: hardware, software, user interaction, safety, and user desires. Although some needs could fit into two, or more, categories, all but two were eventually fitted into categories.
 <br><br>
 
+![5cat](5Categories.PNG)
+
 The five categories, as mentioned before, are hardware, software, user interaction, safety, and user desires. Hardware being the electrical components inside and how they are put together. This includes soldering, component selection, pcb manufacturing, and buttons. Outer shells, any paint, or any cosmetic features will not be included in this category. Software being the inevitable coding involved with this project. This category includes all the internal calculations that are needed and the outputs given to the hardware. User interaction includes the parts that the user will use to use the final design. Safety includes things such as the outer shell, the interaction with weather, and any interaction from the user to the electronics. User desires is a miscellaneous category of requirements that couldn’t fit into any categories, but are still important.
+<br><br>
+
+![5cat](Color.PNG)
+
+<br>
+Next the category requirements were ranked. In each category, requirements were ranked/ ordered by how critical they were to the requirements. 
+<br>
+
+![5cat](Rank.PNG)
+
 <br><br>
 
 <b>Developing Requirements</b>
@@ -60,3 +72,11 @@ Senior Management: Product must achieve the needed goals while satisfying set te
 Retailers: Prefer products that can be used by the average consumer due to simplistic design and size. The product must be durable for a multitude of conditions and have longevity.<br>
 Regulatory instances: The product needs to comply with US safety regulations as well as the requirements of Arizona State University.<br>
 
+<br><br>
+<b>Use Cases</b>
+<br><br>
+User Story #1: John<br>
+John is a 43 year old male who lives with his family in a wooded area. Their family has a large yard where they like to participate in outdoor activities. Unfortunately, they have drastic weather changes that tend to dampen the mood. John wants a way to monitor the outside environment from the comfort of his home. The product by team 308 was exactly what he was looking for, as the device was easy to set up and self-powered. John placed the product on his porch and linked it wirelessly to his phone. As such, he can now see the current weather around his home instantly from his phone.
+<br><br>
+User Story #2: Mark<br>
+Alice is a 30 year old female who lives in an apartment. She has an outdoor patio where she likes to relax. For that, she has placed furniture and small mats along the patio. However, she has experienced difficulty with frequent wind covering her chairs in dirt. She wants a product that would allow her to monitor the outdoor conditions in her patio. If the recorded wind is much higher than usual, she will know to bring in her furniture. She purchased the product and found it to be exactly what she wanted. She liked the simplicity of the device and the fact that it sent information to her wireless devices.
