@@ -9,6 +9,32 @@ This document serves as the holder for research and organization of user require
 This is the research for products already on the market. For each at least one positive and negative comment will be taken and analyzed. User needs will be brought from the comments. Below is that process with five products on the market today.
 
 <br><br>
+![Pro](Benchmark1Pro.PNG)
+<br>
+![Con](Benchmark1Con.PNG)
+<br>
+<br><br>
+![Pro](Benchmark2Pro.PNG)
+<br>
+![Con](Benchmark2Con.PNG)
+<br>
+<br><br>
+![Pro](Benchmark3.PNG)
+<br>
+![Con](Benchmark3PC.PNG)
+<br>
+<br><br>
+![Pro](Benchmark4Pro.PNG)
+<br>
+![Con](Benchmark4Con.PNG)
+<br>
+<br><br>
+![Pro](Benchmark5.PNG)
+<br>
+![Con](Benchmark5PC.PNG)
+<br>
+
+<br><br>
 <b>Organize</b>
 <br><br>
 The team initially took all the comments gathered from the separate products and put them into a Google Jamboard (See screenshot below) looking at all of the needs, five categories were found to sort them into: hardware, software, user interaction, safety, and user desires. Although some needs could fit into two, or more, categories, all but two were eventually fitted into categories.
