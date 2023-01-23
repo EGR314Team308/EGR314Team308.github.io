@@ -19,7 +19,7 @@ First, as a team, we evaluated the needs of the project sequence and reviewed th
 
 After we considered out charter and mission statement, we later moved onto laying out possible user needs and requirements that are needed to the prototype. To create user needs, we used existing customer comments to related product to truly capture thier needs and remedy issues they had. This enable us to create the most accurate user needs and solutions to create a product that serves customer satisfaction and user friendliness. The user needs collected and created were then organized and tranferred into a clear list that will be focused on thorught the creation of this project. By doing this, it allows us to use engineering skills to enable these needs within our prototype. 
 
-<br>
+<br> 
 
 [Design Ideation](DesignIdeation.md)
 
