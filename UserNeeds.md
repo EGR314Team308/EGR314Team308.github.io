@@ -41,13 +41,14 @@ The team initially took all the comments gathered from the separate products and
 <br><br>
 
 ![5cat](5Categories.PNG)
+<br><br>
 
 The five categories, as mentioned before, are hardware, software, user interaction, safety, and user desires. Hardware being the electrical components inside and how they are put together. This includes soldering, component selection, pcb manufacturing, and buttons. Outer shells, any paint, or any cosmetic features will not be included in this category. Software being the inevitable coding involved with this project. This category includes all the internal calculations that are needed and the outputs given to the hardware. User interaction includes the parts that the user will use to use the final design. Safety includes things such as the outer shell, the interaction with weather, and any interaction from the user to the electronics. User desires is a miscellaneous category of requirements that couldn’t fit into any categories, but are still important.
 <br><br>
 
 ![5cat](Color.PNG)
 
-<br>
+<br><br>
 Next the category requirements were ranked. In each category, requirements were ranked/ ordered by how critical they were to the requirements. 
 <br>
 
