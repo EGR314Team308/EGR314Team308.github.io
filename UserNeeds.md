@@ -14,4 +14,23 @@ This is the research for products already on the market. For each at least one p
 The team initially took all the comments gathered from the separate products and put them into a Google Jamboard (See screenshot below) looking at all of the needs, five categories were found to sort them into: hardware, software, user interaction, safety, and user desires. Although some needs could fit into two, or more, categories, all but two were eventually fitted into categories.
 <br><br>
 
-The five categories, as mentioned before, are hardware, software, user interaction, safety, and user desires. Hardware being the electrical components inside and how they are put together. This includes soldering, component selection, pcb manufacturing, and buttons. Outer shells, any paint, or any cosmetic features will not be included in this category. Software being the inevitable coding involved with this project. This category includes all the internal calculations that are needed and the outputs given to the hardware. User interaction includes the parts that the user will use to use the final design. Safety includes things such as the outer shell, the interaction with weather, and any interaction from the user to the electronics. User desires is a miscellaneous category of requirements that couldn’t fit into any categories, but are still important. 
+The five categories, as mentioned before, are hardware, software, user interaction, safety, and user desires. Hardware being the electrical components inside and how they are put together. This includes soldering, component selection, pcb manufacturing, and buttons. Outer shells, any paint, or any cosmetic features will not be included in this category. Software being the inevitable coding involved with this project. This category includes all the internal calculations that are needed and the outputs given to the hardware. User interaction includes the parts that the user will use to use the final design. Safety includes things such as the outer shell, the interaction with weather, and any interaction from the user to the electronics. User desires is a miscellaneous category of requirements that couldn’t fit into any categories, but are still important.
+<br><br>
+
+<b>Developing Requirements</b>
+<br><br>
+<b>Objectives</b>
+<br><br>
+Weather stations are used to gauge and electronically document the current weather conditions. This includes factors such as humidity, temperature, wind speed, and sun coverage. As people find themselves in a world with drastic weather, they will desire a way to personally check the conditions around them.
+Our project seeks to construct a mobile weather station which will collect weather data using digital sensors. This data will be analyzed by the product in order to activate a mechanical output. The current project designs use a motor as the output. The product will be powered by an on-board power supply, such as batteries or a solar cell. We seek for the product to transmit collected data to wireless devices held by the user in an easily accessible format.
+<br><br>
+Stakeholders
+<br><br>
+Target group: People who desire accurate weather conditions quickly. They do not need much technical knowledge.<br>
+Target purchaser: Target group profiles are individuals with residences where weather conditions are extreme or constantly changing.<br>
+Customer service: Customers prefer products that are easy to set up and use. Repairs should be easily obtainable and expedient.<br>
+Marketing & Sales division: Looks for people desiring a way to obtain weather conditions.<br>
+Senior Management: Product must achieve the needed goals while satisfying set technical requirements.<br>
+Retailers: Prefer products that can be used by the average consumer due to simplistic design and size. The product must be durable for a multitude of conditions and have longevity.<br>
+Regulatory instances: The product needs to comply with US safety regulations as well as the requirements of Arizona State University.<br>
+
