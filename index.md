@@ -31,4 +31,4 @@ After creating a list of user needs and requirements, we created three designs f
 
 <br><br>
 
-[Appendix](Appendix.md)
+[Appendix A: Team Organization](Appendix.md)
