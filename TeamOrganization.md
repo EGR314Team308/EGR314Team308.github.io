@@ -5,7 +5,7 @@ Team Charter:
 4. Interact with other teams in order to learn new methods and suggestions 
 5. Design and construct a product that can be added to each team member’s portfolio of engineering experience
 
-
+<b>Our team discussed what goals we sought to achieve in EGR 314, either academically or professionally. The goals were listed and the team selected the 5 goals that were the most important to them. These are what make up the Team Charter.</b>
 
 
 Mission Statement:
