@@ -62,7 +62,7 @@ On choosing a design for our project, our team worked together. With our ideatio
 
 [Block Diagram](BlockDiagram.md)
 
-The block diagram will show the major components of each subsystem and how they all come together. This will serve as the plan and main presentation of the final product, including distribution of work and components.  
+The block diagram is an essential component that will graphically represent the key elements of each subsystem and show how they will work together to create the finished result. This thorough strategy will act as the framework for our project, clearly and succinctly laying out how the work and components will be distributed. We will give a thorough overview of the product, displaying how each component works into the bigger system as well as highlighting its features and potential. With the use of our block diagram, which will be a crucial presentation tool, we will be able to show how each subsystem works in concert with the others to accomplish a shared objective. 
 
 <br>
 
