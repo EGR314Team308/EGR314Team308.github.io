@@ -46,7 +46,8 @@ After creating a list of user needs and requirements, we created three designs f
 [Presentation 1](Presentation1.md)
 
 A recorded video of our project presentation was created to recap the work we have done so far for the project and the procedures we took to create designs. The presentation also recaps and explains the designs we created and how they were designed by the team. 
-
+<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FvTgKpSFzp8" title="EGR 314 Checkpoint 1 Team 308" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 [Appendix A: Team Organization](Appendix.md)
