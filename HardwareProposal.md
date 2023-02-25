@@ -1,4 +1,4 @@
-<h1><b>Software Proposal</b></h1>
+<h1><b>Hardware Proposal</b></h1>
 <br>
 
 <br><br>
