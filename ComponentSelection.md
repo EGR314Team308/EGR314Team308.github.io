@@ -80,7 +80,7 @@ Here are its key specifications:
 5. Dropout voltage: 80 mV at 150 mA
 6. Power supply rejection ratio (PSRR): 60 dB at 1 kHz
 7. Operating temperature range: -40°C to +85°C
-8. Package: SOT-23-5
+8. Package: SOT-23-5 
 
 
 Overall, these components offer high performance, energy efficiency, dependability, and ease of integration, which is why we selected them for our project. Each component was carefully chosen to match the demands of our project, guaranteeing that it will perform as efficiently and dependably as possible.
