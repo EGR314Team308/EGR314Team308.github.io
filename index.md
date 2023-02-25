@@ -57,7 +57,7 @@ The block diagram will show the major components of each subsystem and how they 
 
 [Component Selection](ComponentSelection.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+The component selection is where the team chose different major components for their subsystems. Each one has a different rationale for being chosen over the others. This will not include the microcontroller; that is a separate page. 
 
 <br>
 
