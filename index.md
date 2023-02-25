@@ -93,7 +93,7 @@ The design and development of a hardware system that exemplifies the seamless in
 
 [Presentation 1](Presentation1.md)
 
-A recorded video of our project presentation was created to recap the work we have done so far for the project and the procedures we took to create designs. The presentation also recaps and explains the designs we created and how they were designed by the team. 
+Our team produced a professionally recorded video of our project presentation in order to give a thorough overview of the development of our project and the design procedures we used. This video serves as a helpful summary of our previous work, displaying the thorough and original methods we used to develop our designs. The presentation gives a thorough breakdown of every design element and how it was created by our team, showcasing our artistic vision and technical proficiency. By presenting our product in this manner, we hope to highlight the effort and commitment that went into its development while simultaneously giving readers a clear idea of its features and usefulness.
 <br>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/FvTgKpSFzp8" title="EGR 314 Checkpoint 1 Team 308" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
