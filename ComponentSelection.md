@@ -3,7 +3,7 @@ Motor 505-AD8630ARZ-ND:
 This motor is a terrific option for applications that need accurate and effective motor control because it has outstanding torque and speed ratings. Its small size makes it perfect for use in space-constrained small and lightweight applications. The motor is also energy-efficient, making it possible for it to run on little power, which is essential for portable and battery-powered applications.
 
 Here are the specifications for this component:
-
+ 
 1. Supply voltage range: ±2.5 V to ±18 V
 2. Input offset voltage: 0.5 mV (maximum)
 3. Input bias current: 0.5 nA (maximum)
