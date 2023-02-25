@@ -32,7 +32,7 @@
   A multidisciplinary approach will be used for the project, combining the knowledge of specialists in both electrical engineering and robotic engineering. The ultimate objective is to develop intelligent, autonomous systems that will enhance human interaction with the environment and pave the way for a more sustainable future.
 
 
-
+<br><br>
 
 [Team Organization](TeamOrganization.md)
 
