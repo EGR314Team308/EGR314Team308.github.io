@@ -68,13 +68,13 @@ The block diagram is an essential component that will graphically represent the 
 
 [Component Selection](ComponentSelection.md)
 
-The component selection is where the team chose different major components for their subsystems. Each one has a different rationale for being chosen over the others. This will not include the microcontroller; that is a separate page. 
+Our team had to carefully study and assess numerous important components for each subsystem as part of the component selection process. Our team chose the components with an uncompromising focus on quality, a sharp eye for detail, and a well-thought-out justification that guaranteed their ideal performance and compatibility with the system. It is important to note that the microcontroller selection procedure was carried out independently and will be covered in a separate section. 
 
 <br>
 
 [Microcontroller Selection](MicrocontrollerSelection.md)
 
-The microcontroller selection provides insight to how the team narrowed down and chose the microcontroller we will be using for the project.
+The process of choosing the best microcontroller was a crucial part of our project, therefore our team had to be extremely attentive and diligent in their selection. We thoroughly and rigorously evaluated all of the solutions on the market, taking into account things like performance, power usage, cost, and system compatibility. After reducing the list of potential choices, our team settled on the microcontroller we think will provide the best performance and functionality for our project. This section offers a thorough and informative overview of our microcontroller selection procedure. 
 
 <br>
 
