@@ -1,5 +1,4 @@
 <h1>Component Selection</h1>
-<br>
 These components are mostly set in stone. Each person in the group is free to choose another component as long as it is represented in the current documents. As the team sees it, this portion of the project is complete, because all persons on the team have made individual schematics and combined them into the hardware proposal, which you may direct to or ask about.
 <br><br>
 
