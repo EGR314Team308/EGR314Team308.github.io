@@ -8,5 +8,5 @@ names of the people in charge of the subsystems. This also maps out pins we can 
 <br>
 <h2><b>Varification table</b></h2>
 <br><br>
-![Varification](Verification Table.pdf)
+![Verification](Verification Table.pdf)
 <br>
