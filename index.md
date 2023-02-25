@@ -25,9 +25,11 @@
 </div>
 <br>
 
-The ability to adapt and react to changing settings is becoming more and more crucial in today's society, particularly in the fields of robotics and automation. Serial sensing and actuation systems are posing as a viable option in this situation for creating machines that can interact with their environment and modify their behavior as necessary. These systems combine sensors and actuators to monitor changes in the environment and react to those changes.
-This project's goal is to investigate the creation of systems for serial sensing and actuation for a range of uses, such as robotics, industrial automation, and environmental monitoring. We seek to create and build responsive systems that can adapt to the surrounding environment and increase overall efficiency and effectiveness by utilizing the most recent developments in sensors, actuators, and control algorithms. Our goal is to design systems that can not only detect and respond to changes in the environment but also learn from their experiences and improve their performance over time.
-A multidisciplinary approach will be used for the project, combining the knowledge of specialists in both electrical engineering and robotic engineering. The ultimate objective is to develop intelligent, autonomous systems that will enhance human interaction with the environment and pave the way for a more sustainable future.
+  The ability to adapt and react to changing settings is becoming more and more crucial in today's society, particularly in the fields of robotics and automation. Serial sensing and actuation systems are posing as a viable option in this situation for creating machines that can interact with their environment and modify their behavior as necessary. These systems combine sensors and actuators to monitor changes in the environment and react to those changes.
+
+  This project's goal is to investigate the creation of systems for serial sensing and actuation for a range of uses, such as robotics, industrial automation, and environmental monitoring. We seek to create and build responsive systems that can adapt to the surrounding environment and increase overall efficiency and effectiveness by utilizing the most recent developments in sensors, actuators, and control algorithms. Our goal is to design systems that can not only detect and respond to changes in the environment but also learn from their experiences and improve their performance over time.
+
+  A multidisciplinary approach will be used for the project, combining the knowledge of specialists in both electrical engineering and robotic engineering. The ultimate objective is to develop intelligent, autonomous systems that will enhance human interaction with the environment and pave the way for a more sustainable future.
 
 
 
