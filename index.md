@@ -54,7 +54,9 @@ After creating a list of user needs and requirements, we created three designs f
 
 [Selected Design](SelectedDesign.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+On choosing a design for our project, our team worked together. With our ideation sessions, we started by thinking and producing a range of design choices. Next, after carefully examining each design, we chose the best one based on its advantages, how well it satisfied the project's criteria, and whether it was within the allotted budget. We gathered the opinions of every team member before making a decision, allowing us to take into account all viewpoints and insights. By involving the whole team in this process, we made sure that everyone had a say and that everyone supported the final design. In the end, we are convinced that the design we have selected will be successful in accomplishing the project's goals.
+
 
 <br>
 
