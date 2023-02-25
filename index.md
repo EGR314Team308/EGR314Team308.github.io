@@ -86,7 +86,7 @@ This proposal is meant to show how the microcontroller is meant to be programmed
 
 [Hardware Proposal](HardwareProposal.md)
 
-This proposal is meant to show how all the components are meant to work together. This is basically the electrical design of our final project.
+The design and development of a hardware system that exemplifies the seamless integration of several components working together is part of our project proposal. Our system's electrical design is essential to ensuring that all the parts work together smoothly and efficiently. In order to create a completely functional and effective system, we want to show how various hardware elements, including  microcontrollers, sensors, actuators, and power sources, interact with one another. In addition to putting a strong emphasis on effective power management and signal processing, our design also takes reliability and safety into account. With this hardware design, we hope to offer a thorough and useful solution that can be used in a variety of industries, from automation to robotics and beyond.
 
 <br>
 
