@@ -80,7 +80,7 @@ The microcontroller selection provides insight to how the team narrowed down and
 
 [Software Proposal](SoftwareProposal.md)
 
-This proposal is meant to show how the microcontroller is meant to be programmed and make all the components do their jobs. This is basically the program of our final project.
+Our project proposal calls for the creation of a software proposal that will be in charge of directing and coordinating the various elements of our hardware system. The program will be created to operate on a microcontroller and be in charge of reading, analyzing, and utilising data from sensors to control different actuators in the system. Capabilities for error handling and debugging were also included to make sure the software can run consistently and effectively. The goal of this software proposal is to offer a complete solution that exemplifies the capability and adaptability of our microcontroller in managing and coordinating our hardware system.
 
 <br>
 
