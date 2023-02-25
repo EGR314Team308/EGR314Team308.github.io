@@ -43,6 +43,43 @@ After creating a list of user needs and requirements, we created three designs f
 
 <br>
 
+[Selected Design](SelectedDesign.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+<br>
+
+[Block Diagram](BlockDiagram.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+<br>
+
+[Component Selection](ComponentSelection.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+<br>
+
+[Microcontroller Selection](MicrocontrollerSelection.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+<br>
+
+[Software Proposal](SoftwareProposal.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+<br>
+
+[Hardware Proposal](HardwareProposal.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+
+<br>
+
+
 [Presentation 1](Presentation1.md)
 
 A recorded video of our project presentation was created to recap the work we have done so far for the project and the procedures we took to create designs. The presentation also recaps and explains the designs we created and how they were designed by the team. 
