@@ -74,19 +74,19 @@ The component selection is where the team chose different major components for t
 
 [Microcontroller Selection](MicrocontrollerSelection.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+The microcontroller selection provides insight to how the team narrowed down and chose the microcontroller we will be using for the project.
 
 <br>
 
 [Software Proposal](SoftwareProposal.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+This proposal is meant to show how the microcontroller is meant to be programmed and make all the components do their jobs. This is basically the program of our final project.
 
 <br>
 
 [Hardware Proposal](HardwareProposal.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non suscipit magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque lobortis molestie tortor, nec posuere diam tincidunt nec. Quisque mi mi, dictum non augue nec, facilisis porta elit. Quisque a luctus erat, vitae vehicula orci. Vestibulum sit amet justo et augue gravida condimentum. Maecenas tempor aliquet nisl eu interdum. Etiam at ligula vitae nibh faucibus vehicula. Pellentesque non lobortis justo, quis feugiat urna. Mauris laoreet tellus id sem aliquam commodo. Nulla sed vehicula orci, eget rutrum elit. Nam convallis lectus vitae consequat faucibus. 
+This proposal is meant to show how all the components are meant to work together. This is basically the electrical design of our final project.
 
 <br>
 
