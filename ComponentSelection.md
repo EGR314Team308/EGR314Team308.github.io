@@ -5,7 +5,9 @@ This motor is a terrific option for applications that need accurate and effectiv
 Regulator BD1321G-TR: 
 
 This low dropout regulator can function across a certain voltage range. It is the perfect option for projects with complex setups due to its small size and simplicity of interaction with other parts and systems. In addition, the BD1321G-TR offers constant voltage output, which contributes to its high level of dependability and ensures the proper operation of the complete system. Due to its low power consumption, it is an energy-efficient solution that can aid in lowering the project's overall power usage.
+
 Analog-to-digital converter (ADC) 595-ADS8924BRGET:
+
 For tasks that need for accurate and exact data gathering, this high-speed ADC is the best option because of its superb accuracy and precision. Maximum versatility is provided by its highly adjustable operating modes, which may be tailored for various applications. The ADC's high level of dependability also ensures that the data acquisition system performs as planned. It is the best option for projects that call for compact and energy-efficient solutions because to its tiny size and low power usage.
 
 Low-dropout regulator MCP1700T-3102E/TT: 
