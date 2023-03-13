@@ -15,4 +15,5 @@ Taking these five main points, our team will use them to achieve our mission sta
 
 Mission Statement:
 
-Team 308 seeks to design and construct a product that functions as a mobile weather station. The goal is for the product to efficiently collect and transmit data from digital sensors through wireless connections. We will be successful when the product can be utilized to accurately and easily collect sensor outputs relating to immediate weather conditions.
+**Team 308 seeks to design and construct a product that functions as a mobile weather station. The goal is for the product to efficiently collect and transmit data from digital sensors through wireless connections. We will be successful when the product can be utilized to accurately and easily collect sensor outputs relating to immediate weather conditions.**
+
