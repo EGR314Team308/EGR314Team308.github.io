@@ -104,3 +104,10 @@ Here are its key specifications:
 
 Overall, these components offer high performance, energy efficiency, dependability, and ease of integration, which is why we selected them for our project. Each component was carefully chosen to match the demands of our project, guaranteeing that it will perform as efficiently and dependably as possible.
 
+
+**Power Budget:**
+<br><br>
+![Pro](PowerBudget.jpg)
+<br>
+
+This is the power budget for all of our main components It shows our device is to run for 160 hours on a 9 volt battery. Meaning we have about a week of runtime.
