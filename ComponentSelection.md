@@ -2,107 +2,330 @@
 These components are mostly set in stone. Each person in the group is free to choose another component as long as it is represented in the current documents. As the team sees it, this portion of the project is complete, because all persons on the team have made individual schematics and combined them into the hardware proposal, which you may direct to or ask about.
 <br><br>
 
-**Motor 505-AD8630ARZ-ND:**
-<br><br>
-![Pro](ComponentMotor.JPG)
-<br>
 
-This motor is a terrific option for applications that need accurate and effective motor control because it has outstanding torque and speed ratings. Its small size makes it perfect for use in space-constrained small and lightweight applications. The motor is also energy-efficient, making it possible for it to run on little power, which is essential for portable and battery-powered applications.
 
-Here are the specifications for this component:
+
+Component Selection
+Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis
+Arizona State University 
+EGR 314, Team 308
+Professor Travis Kelley
+
+
+Introduction	2
+Major components	2
+Op Amp -	2
+Anemometer	4
+Analog to digital converter (ADC)	6
+Switching Voltage Regulator	8
+Motor Driver	10
+
+
+Introduction
+This document serves as the showcase of our component selection process. The team was required to select the best components for the tasks that needed to be performed. The components in question being an operational amplifier (op amp), anemometer, analog to digital converter (ADC), switching voltage regulator, and motor driver. While researching the requirements for each component, the three most promising components were entered into the charts below. After careful consideration the best one was picked from those three.
+Major components
+Op Amp - 
+Solution
+Pros
+Cons
+
+Surface mount is in line with class requirements
+General purpose so we can potentially use it for other things
+Range of acceptable voltage already includes 3.3V
+Relatively low temperature range (hard to solder)
+
+
+BD1321G-TR
+0.69/ each
+https://www.digikey.com/en/products/detail/rohm-semiconductor/BD1321G-TR/5720856?s=N4IgTCBcDaIEIBECMBmMSDiBaAKgJRAF0BfIA
+
+
+
+
+Solution
+Pros
+Cons
+
+Has an extremely large voltage range (2.7-36V)
+Durable in extreme temperature and moisture.
+Does not require much supply current
+Can only be bought in bulk (100+)
+2156-OPA234E-ND
+$1 /each
+https://www.digikey.com/en/products/detail/rochester-electronics-llc/OPA234E/12602361
+
+
+Solution
+Pros
+Cons
+
+Zero-Drift OpAmp minimizes input offset voltage.
+Durable in extreme temperature and moisture.
+Price is much higher than other available OpAmps
+505-AD8630ARZ-ND
+
+
+
+
+$9.21 /each
+
+
+
+
+https://www.digikey.com/en/products/detail/analog-devices-inc/AD8630ARZ/998043
+
+
+
+Choice: BD1321G-TR
+Rationale: Our team chose this OpAmp because it meets class requirements and is able to be surface mounted, it is a general person OpAmp which means our team could use it for multiple subsystems, and it meets the acceptable voltage range required for our design. 
+Anemometer
+Solution
+Pros
+Cons
+
+Relatively easy to use
+
+
+Expensive
+Needs an extra part to research
+1528-1328-ND
+44.95
+https://www.digikey.com/en/products/detail/adafruit-industries-llc/1733/5356813?utm_adgroup=Sensors%20%26%20Transducers&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_Product&utm_term=&utm_content=Sensors%20%26%20Transducers&gclid=CjwKCAiAleOeBhBdEiwAfgmXf8sIo39AlE1VwRqEgjujfe8mDJ45h0yy2RzGvRM1hHp4qsWh1zrcuRoC4A4QAvD_BwE
+
+
+Solution
+Pros
+Cons
  
-1. Supply voltage range: ±2.5 V to ±18 V
-2. Input offset voltage: 0.5 mV (maximum)
-3. Input bias current: 0.5 nA (maximum)
-4. Input voltage range: ±Vs-1.5 V (maximum)
-5. Gain bandwidth product: 12 MHz (typical)
-6. Slew rate: 5 V/μs (typical)
-7. Input noise voltage density: 4.5 nV/√Hz (typical)
-8. Input noise current density: 0.9 pA/√Hz (typical)
-9. Output voltage swing: ±13.5 V (minimum)
-10. Operating temperature range: -40°C to +125°C.
+Cheap
+Runs in a voltage range from 2.7 to 5V.
+Simple voltage change output.
+Will require external wiring.
+Will not work with stepper-specific motor drivers.
+505-AD8630ARZ-ND
+$3.86 /each
+https://www.digikey.com/en/products/detail/analog-devices-inc/AD8630ARZ/998043
 
 
-**OpAmp BD1321G-TR: **
-<br><br>
-![Pro](ComponentOpAmp.JPG)
-<br>
+Solution
+Pros
+Cons
 
-This OpAmp can function across a certain voltage range. It is the perfect option for projects with complex setups due to its small size and simplicity of interaction with other parts and systems. In addition, the BD1321G-TR offers constant voltage output, which contributes to its high level of dependability and ensures the proper operation of the complete system. Due to its low power consumption, it is an energy-efficient solution that can aid in lowering the project's overall power usage.
-
-Here are the specifications for this component:
-
-1. Input voltage range: 2.5 V to 5.5 V
-2. Output voltage: 1.2 V to 5.5 V
-3. Maximum output current: 150 mA
-4. Dropout voltage: 100 mV (typical) at 100 mA output current
-5. Line regulation: 0.02%/V (typical)
-6. Load regulation: 0.05%/mA (typical)
-7. Quiescent current: 20 μA (typical)
-8. Overcurrent protection: 200 mA (typical)
-9. Thermal shutdown protection
-10. Operating temperature range: -40°C to +85°C
-
-**Analog-to-digital converter (ADC) 595-ADS8924BRGET:**
-<br><br>
-![Pro](ComponentADC.JPG)
-<br>
-
-For tasks that need for accurate and exact data gathering, this high-speed ADC is the best option because of its superb accuracy and precision. Maximum versatility is provided by its highly adjustable operating modes, which may be tailored for various applications. The ADC's high level of dependability also ensures that the data acquisition system performs as planned. It is the best option for projects that call for compact and energy-efficient solutions because to its tiny size and low power usage.
-
-Here are some of its key specifications:
-
-1. Resolution: 16 bits
-2. Number of channels: 4
-3. Sampling rate: Up to 2 MSPS (mega samples per second)
-4. Input voltage range: ±5 V, ±10 V, 0-5 V, and 0-10 V
-5. Input impedance: 20 kΩ differential
-6. Power supply voltage: 3.3 V
-7. Power consumption: 118 mW at 2 MSPS and 3.3 V
-8. Operating temperature range: -40°C to +85°C
-9. Package: 24-pin VQFN
+Product has a digital output
+Small enough to fit in a compact design
+Datasheet has a typical voltage curve already
+Cannot sense direction on its own
+Through hole mounting
+Most likely inaccurate
+3567-PAV1015-ND
+$49.00
+https://www.digikey.com/en/products/detail/posifa-technologies/PAV1015/14122017?s=N4IgTCBcDaIIIDsCmBbA9ipAXJAnEAugL5A
 
 
-**Low-dropout regulator MCP1700T-3102E/TT: **
-<br><br>
-![Pro](ComponentVoltageRegulator.JPG)
-<br>
+Choice: 505-AD8630ARZ-ND Motor
+Rational: We chose this component as it is the most realistic for this type of project. Using a motor as an anemometer is cheap and simple with a constructed wind cup. As an input, the microcontroller can use the voltage changes produced by the motor’s rotation.
+Analog to digital converter (ADC)
+Solution
+Pros
+Cons
 
-This low-dropout regulator is simple to integrate into projects that call for a steady and dependable power supply. For the appropriate operation of the entire system, it ensures that the power supply works within the necessary range thanks to its outstanding voltage regulation. The MCP1700T-3102E/TT is a great option for applications that call for long-term continuous use because it is also extremely energy-efficient and uses little power while in use.
-
-Here are its key specifications:
-
-1. Output voltage: 3.1 V
-2. Dropout voltage: 178 mV at 250 mA
-3. Maximum output current: 250 mA
-4. Input voltage range: 2.7 V to 13.2 V
-5. Quiescent current: 2 µA (typical)
-6. Line regulation: 0.1% (typical)
-7. Load regulation: 0.4% (typical)
-8. Operating temperature range: -40°C to +125°C
-9. Package: SOT-23
+Product has 4 inputs and 4 outputs
+Has a supply input range (3-5V)
+Uses SPI
+Extremely moisture sensitive
+584-AD7858ARZ 
 
 
-**Motor Driver IFX9201SGAUMA1:**
-<br><br>
-![Pro](ComponentMotorDriver.JPG)
-<br>
-
-The great efficiency of this high-performance motor driver makes it the perfect option for applications that need for energy-saving solutions. Maximum versatility is provided by its highly adjustable operating modes, which may be tailored for various applications. The IFX9201SGAUMA1 is also very dependable, making sure that the power management system performs as planned. It is the best option for projects that call for compact and energy-efficient solutions because to its tiny size and low power usage.
-
-Here are its key specifications:
-
-1. Input voltage range: 2.5 V to 5.5 V
-2. Output voltage: 1.8 V to 5.0 V, selectable in 100 mV steps
-3. Maximum output current: 150 mA
-4. Quiescent current: 9 µA (typical)
-5. Dropout voltage: 80 mV at 150 mA
-6. Power supply rejection ratio (PSRR): 60 dB at 1 kHz
-7. Operating temperature range: -40°C to +85°C
-8. Package: SOT-23-5 
 
 
-Overall, these components offer high performance, energy efficiency, dependability, and ease of integration, which is why we selected them for our project. Each component was carefully chosen to match the demands of our project, guaranteeing that it will perform as efficiently and dependably as possible.
+$29.15 /each
+
+
+
+
+https://www.mouser.com/ProductDetail/Analog-Devices/AD7858ARZ?qs=%2FtpEQrCGXCztvdsnhNDaIw%3D%3D
+
+
+Solution
+Pros
+Cons
+
+Can withstand extreme temperature
+Has a supply input range (3-5V)
+Considered a “High Speed” ADC
+Uses SPI
+Has only one output channel
+595-ADS8924BRGET 
+
+
+
+
+$13.22
+
+
+
+
+https://www.mouser.com/ProductDetail/Texas-Instruments/ADS8924BRGET?qs=osPbIpHqQ9VG6i7AYocAxg%3D%3D
+
+
+
+
+Solution
+Pros
+Cons
+
+10 bit
+Extremely small
+3-5.5 V input voltage
+Single-ended input limits output to voltage differentials.
+595-TLV1543CDW
+
+
+
+
+$8.88 /each
+
+
+
+
+https://www.mouser.com/ProductDetail/Texas-Instruments/TLV1543CDW?qs=3FVjRv9mUZ8lif0mcM%252BeQg%3D%3D
+
+
+Choice: 595-ADS8924BRGET
+Rational: Due to the moisture sensitivity the first option is unrealistic; another subsystem is meant to detect moisture. The single output can be worked with since the component is small and the pcb would only need to fit two or three. The only other physical contradiction to the choice would be soldering difficulty. 
+Switching Voltage Regulator
+Solution
+Pros
+Cons
+
+Fits most of our criteria
+Max Input Voltage is 1.8 V
+Higher Cost 
+LTC1502CS8-3.3#PBF
+
+
+
+
+$3.42
+
+
+
+
+https://www.digikey.com/en/products/detail/rochester-electronics-llc/LTC1502CS8-3-3-PBF/13496260
+
+
+Solution
+Pros
+Cons
+
+Input Voltage max of 35V 
+Cheap
+Output Voltage Minimum of 5V
+Would not output 3.3 easily 
+MC7805BDTG
+
+
+
+
+$0.67
+
+
+
+
+https://www.digikey.com/en/products/detail/onsemi/MC7805BDTG/1481212?utm_adgroup=Integrated%20Circuits%20%28ICs%29&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_ON%20Semiconductor_0488_Co-op&utm_term=&utm_content=Integrated%20Circuits%20%28ICs%29&gclid=EAIaIQobChMIu47d_q71_AIV79uGCh1_NQgLEAQYASABEgIJd_D_BwE
+
+
+Solution
+Pros
+Cons
+
+Cheapest option  
+Requires an amplifier due to it only outputting 3.1V
+MCP1700T-3102E/TT
+
+
+
+
+$0.5
+
+
+
+
+https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/MCP1700T-3102E-TT?qs=uHi2%2FQoPa5DCdC3guxdHbw%3D%3D&mgh=1&gclid=EAIaIQobChMIu47d_q71_AIV79uGCh1_NQgLEAQYCCABEgIR-_D_BwE
+
+
+Choice: MCP1700T-3102E/TT
+Rational: The team chose this regulator to simplify what we have to do to meet the requirements. It was fairly difficult to find a regulator that accepts 9 volts and outputs a fixed 3.3 volts. Amplifying the output voltage would be simpler than regulating it or decreasing the input voltage by 8V. 
+Motor Driver
+Solution
+Pros
+Cons
+
+Cleared by graders
+Available in Peralta
+5-36 V input voltage
+5V input conflicts with 3.3V input of many other components
+IFX9201SGAUMA1
+
+
+
+
+$4.88 /each
+
+
+
+
+https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542
+
+
+Solution
+Pros
+Cons
+
+Specifically notes use with PWM pins on microcontrollers
+Works with selected motor
+
+3-3.6 V input voltage
+6 week lead time
+EMC2301-1-ACZL-TR
+
+
+
+
+$1.24 /each
+
+
+
+
+https://www.digikey.com/en/products/detail/microchip-technology/EMC2301-1-ACZL-TR/3872090
+
+
+Solution
+Pros
+Cons
+
+16 pin
+PWM based
+Can be obtained in 4 weeks
+
+3-3.6 V input voltage
+EMC2305-1-AP-TR
+
+
+
+
+$2.46 /each
+
+
+
+
+https://www.digikey.com/en/products/detail/microchip-technology/EMC2305-1-AP-TR/3872093
+
+
+Choice: IFX9201SGAUMA1
+Rationale: Our team chose this motor driver as we already have access to it through the adjacent storage room. Minimal soldering will be needed to implement it in a given circuit. Also, the component’s functionality will necessitate a voltage regulator, which is included as a subsystem. This motor driver should be able to relay the PWM signal from the microcontroller with minimal effort.
+
+
 
 
 **Power Budget:**
