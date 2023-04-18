@@ -11,3 +11,7 @@ Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with 
 <br><br>
 ![Diagram](PIC24.jpg)
 <br>
+
+
+
+
