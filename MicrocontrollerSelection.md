@@ -1,25 +1,4 @@
 <h1><b>Microcontroller Selection</b></h1>
-<br>
-<h2><b>PIC24HJ128GP504-I/PT</b></h2>
-
-<br>
-Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with SPI support. It also has all the I/O and PWM pins that we will be needing for our project. Alongside with this, it was one of the few microcontrollers that the team was able to find that will be able to ship and arrive in time. All other microcontrollers needed months to be shipped.
- 
-<br><br>
-![Diagram](PICPinOut.JPG)
-<br>
-<br><br>
-![Diagram](PIC24.jpg)
-<br>
-
-
-
-
-
-
- <h1> Microcontroller Selection</h1>
-
-
 
 <table>
 <colgroup>
@@ -53,28 +32,28 @@ Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with 
 </tr>
 <tr class="header">
 <th>How many GPIO Pins?<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></th>
-<th>______.</th>
+<th></th>
 <th><strong>68</strong></th>
 <th><strong>35</strong></th>
 <th><strong>20</strong></th>
 </tr>
 <tr class="odd">
 <th>Built-in Analog to Digital Converter? How many?</th>
-<th>_______</th>
+<th></th>
 <th><strong>1</strong></th>
 <th><strong>1</strong></th>
 <th><strong>2</strong></th>
 </tr>
 <tr class="header">
 <th>Built-in Hardware PWM? How many?</th>
-<th>____</th>
+<th></th>
 <th><strong>5</strong></th>
 <th><strong>4</strong></th>
 <th><strong>3</strong></th>
 </tr>
 <tr class="odd">
 <th>Built-in I2C? SPI? How many?</th>
-<th>__________.</th>
+<th></th>
 <th><strong>1 SPI  1 I2C</strong></th>
 <th><strong>2 SPI  1 I2C</strong></th>
 <th><p><strong>2 SPI  1 I2C</strong></p>
@@ -82,7 +61,7 @@ Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with 
 </tr>
 <tr class="header">
 <th>Built-in UART? How many?</th>
-<th>____</th>
+<th></th>
 <th><strong>2</strong></th>
 <th><strong>2</strong></th>
 <th><strong>3</strong></th>
@@ -300,8 +279,20 @@ Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with 
 </tbody>
 </table>
 
-**6. Final Microcontroller Choice**: PIC24HJ128GP504-I/PT
-We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with SPI support. It also has all the I/O and PWM pins that we will be needing for our project. Alongside with this, it was one of the few microcontrollers that the team was able to find that will be able to ship and arrive in time. All other microcontrollers needed months to be shipped. 
+** Final Microcontroller Choice**: PIC24HJ128GP504-I/PT
+
+Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with SPI support. It also has all the I/O and PWM pins that we will be needing for our project. Alongside with this, it was one of the few microcontrollers that the team was able to find that will be able to ship and arrive in time. All other microcontrollers needed months to be shipped.
+ 
+<br><br>
+![Diagram](PICPinOut.JPG)
+<br>
+<br><br>
+![Diagram](PIC24.jpg)
+<br>
+
+
+
+
 
 
 
