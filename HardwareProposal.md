@@ -4,6 +4,6 @@ An in-depth analysis of a hardware proposal's functionality is necessary to make
 <br>
 
 <br><br>
-![Diagram](HardwareProp.JPG)
+![Diagram](HardwareProposal.JPG)
 <br>
 
