@@ -16,7 +16,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width20%;height:20%" /></p>
+<th><p><img src="1.jpg" style="width20%;height:20%" /></p>
 <p>Op Amp.</p>
 <p>Part <strong>No.</strong></p>
 <p>BD1321G-TR</p>
@@ -41,7 +41,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="image" style="width:50%;height:50%" /></p>
+<th><p><img src="2.jpg" style="width:50%;height:50%" /></p>
 <p>Op Amp</p>
 <p>Part <strong>No.</strong></p>
 <p>2156-OPA234E-ND</p>
@@ -65,7 +65,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width:50%;height:50%" /></p>
+<th><p><img src="3.JPG" style="width:50%;height:50%" /></p>
 <p>Op Amp</p>
 <p>Part <strong>No.</strong> 505-AD8630ARZ-ND</p>
 <p><strong>Price</strong>:$ 9.21 Each</p>
@@ -137,7 +137,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width:20%;height:20%" /></p>
+<th><p><img src="4.JPG" style="width:20%;height:20%" /></p>
 <p>Anemometer <strong>No.</strong></p>
 <p>1528-1328-ND</p>
 <p><strong>Price</strong>: $44.95 Each</p>
@@ -157,7 +157,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="image" style="width:40%;height:40%" /></p>
+<th><p><img src="5.JPG" style="width:40%;height:40%" /></p>
 <p>Motor</p>
 <p>Part <strong>No.</strong></p>
 <p>505-AD8630ARZ-ND</p>
@@ -184,7 +184,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width:40%;height:40%" /></p>
+<th><p><img src="6.JPG" style="width:40%;height:40%" /></p>
 <p>Motor</p>
 <p>Part <strong>No</strong>.</p>
 <p>3567-PAV1015-ND</p>
@@ -248,7 +248,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image="width:20%;height:20%" /></p>
+<th><p><img src="7.JPG"width:20%;height:20%" /></p>
 <p>ADC</p>
 <p>Part <strong>No.</strong></p>
 <p>584-AD7858ARZ </p>
@@ -273,7 +273,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="image" style="width:20%;height:20%" /></p>
+<th><p><img src="8.JPG" style="width:20%;height:20%" /></p>
 <p>ADC</p>
 <p>Part <strong>No.</strong></p>
 <p>595-ADS8924BRGET 
@@ -302,7 +302,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width:20%;height:20%" /></p>
+<th><p><img src="9.JPG" style="width:20%;height:20%" /></p>
 <p>ADCr</p>
 <p>Part <strong>No.</strong></p>
 <p>595-TLV1543CDW</p>
