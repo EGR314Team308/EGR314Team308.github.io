@@ -2,5 +2,5 @@
 <br>
 
 <br><br>
-![Diagram](308_Software_Proposal.jpg)
+![Diagram](308_Software_Proposal (1).jpg)
 <br>
