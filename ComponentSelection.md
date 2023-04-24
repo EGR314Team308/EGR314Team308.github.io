@@ -1,7 +1,7 @@
 
 <h1>Component Selection</h1>
 
- <h6>Op Amp</h6>
+ <h3>Op Amp</h3>
 
 <table>
 <colgroup>
@@ -90,39 +90,14 @@
 </tbody>
 </table>
 
-<figure class="image">  
 
-<div style="text-align: center">  
-
-<img src="image" width="20%"><br>  
-
-</div>
-
-</figure>
-
-**Choice:** BD1321G-TR
+**Choice:** <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#opamp-bd1321g-tr"><u>BD1321G-TR</u></a>
 
 **Rationale:** Our team chose this OpAmp because it meets class requirements and is able to be surface mounted, it is a general person OpAmp which means our team could use it for multiple subsystems, and it meets the acceptable voltage range required for our design. 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <h6>Anemometer</h6>  
+ <h3>Anemometer</h3>  
 
 <table>
 <colgroup>
@@ -218,22 +193,15 @@
 </tbody>
 </table>
 
-<figure class="image">  
 
-<div style="text-align: center">  
-
-<img src="image" width="30%"><br>  
-
-</div>
-
-</figure>
-
-**Choice:** 505-AD8630ARZ-ND Motor
+**Choice:**  <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#motor-505-ad8630arz-nd"><u>505-AD8630ARZ-ND</u></a>
 
 
 **Rationale:** We chose this component as it is the most realistic for this type of project. Using a motor as an anemometer is cheap and simple with a constructed wind cup. As an input, the microcontroller can use the voltage changes produced by the motor’s rotation.
 
- <h6>Analog to Digital Converter (ADC)</h6>    
+
+
+ <h3>Analog to Digital Converter (ADC)</h3>    
 
 <table>
 <colgroup>
@@ -248,7 +216,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="7.JPG"width:20%;height:20%" /></p>
+<th><p><img src="7.JPG"width:20%;height:20% /></p>
 <p>ADC</p>
 <p>Part <strong>No.</strong></p>
 <p>584-AD7858ARZ </p>
@@ -330,21 +298,14 @@
 </tbody>
 </table>
 
-<figure class="image">  
 
-<div style="text-align: center">  
-
-<img src="images" width="30%"><br>  
-
-</div>
-
-</figure>
-
-**Choice:**  595-ADS8924BRGET
+**Choice:**  <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#analog-to-digital-converter-adc-595-ads8924brget"><u>595-ADS8924BRGET</u></a>
 
 **Rationale:** Due to the moisture sensitivity the first option is unrealistic; another subsystem is meant to detect moisture. The single output can be worked with since the component is small and the pcb would only need to fit two or three. The only other physical contradiction to the choice would be soldering difficulty. 
 
-<h6> Switching Voltage Regulator </h6>  
+
+
+<h3> Switching Voltage Regulator </h3>  
 
 <table>
 <colgroup>
@@ -425,21 +386,15 @@
 <tbody>
 </tbody>
 </table>
-<figure class="image">  
 
-<div style="text-align: center">  
 
-<img src="image" width="25%"><br>  
-
-</div>
-
-</figure>
-
-**Choice:** MCP1700T-3102E/TT
+**Choice:** <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#low-dropout-regulator-mcp1700t-3102ett"><u>MCP1700T-3102E/TT</u></a>
 
 **Rationale:** The team chose this regulator to simplify what we have to do to meet the requirements. It was fairly difficult to find a regulator that accepts 9 volts and outputs a fixed 3.3 volts. Amplifying the output voltage would be simpler than regulating it or decreasing the input voltage by 8V. 
 
-<h6>Motor Driver</h6> 
+
+
+<h3>Motor Driver</h3> 
 
 <table>
 <colgroup>
@@ -530,19 +485,12 @@
 </tbody>
 </table>
 
-<figure class="image">  
 
-<div style="text-align: center">  
-
-<img src="image width="20%"><br>  
-
-</div>
-
-</figure>
-
-**Choice:** IFX9201SGAUMA1
+**Choice:** <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#motor-driver-ifx9201sgauma1"><u>IFX9201SGAUMA1</u></a>
 
 **Rationale:** Our team chose this motor driver as we already have access to it through the adjacent storage room. Minimal soldering will be needed to implement it in a given circuit. Also, the component’s functionality will necessitate a voltage regulator, which is included as a subsystem. This motor driver should be able to relay the PWM signal from the microcontroller with minimal effort.
+ 
+ 
  
  **Power Budget:**
 <br><br>
