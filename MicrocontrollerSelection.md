@@ -21,7 +21,7 @@
 <tr class="header">
 <th colspan="2"><strong>1. Determine your project-specific requirements</strong></th>
 <th colspan="3"><strong>3. Look up specifications in the PIC datasheet</strong></th>
-</tr>
+
 <tr class="odd">
 <th><strong>Design Considerations</strong></th>
 <th><p><strong>Team Project-Specific Requirements</strong></p>
@@ -58,7 +58,7 @@
 <th><strong>2 SPI  1 I2C</strong></th>
 <th><p><strong>2 SPI  1 I2C</strong></p>
 
-</tr>
+
 <tr class="header">
 <th>Built-in UART? How many?</th>
 <th></th>
@@ -115,28 +115,28 @@
 <tr class="header">
 <th>Links (URL) to Application Notes</th>
 <th><em>Often provided by manufacturers to give you specific examples of how to use their products. Search for them in the search bar on the Microchip’s website.</em></th>
-<th><p><a 
+<th><p> N/A
+(Not present on website)
 <th><strong> N/A
 (Not present on website)</strong></th>
 <th><strong> N/A
 (Not present on website)</strong></th>
-<th><p><strong> N/A
-(Not present on website)</strong></p>
-<p><strong>found</strong></p></th>
+<th><p><strong> </strong></p>
+<p><strong></strong></p></th>
 </tr>
 <tr class="odd">
 <th>Links (URL) to Code Examples</th>
 <th></th>
 <th><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/CE211_Ext_Int_14aug09r.zip"><strong><u>Code</u></strong></a></th>
 <th><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/ce484_pwm_oc_ptg.zip"><strong><u>Code</u></strong></a></th>
-<th><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/ce484_pwm_oc_ptg.zip"><strong><u>Code Page 166</u></strong></a></th>
+<th><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/ce484_pwm_oc_ptg.zip"><strong><u>Code</u></strong></a></th>
 </tr>
 <tr class="header">
 <th>Links (URL) to External Resources</th>
 <th><em>Search on Google and YouTube for other resources for each specific microcontroller.</em></th>
-<th><a href="https://www.youtube.com/watch?v=Yau9jtRrUHk"><strong><u>Signal Receiver</u></strong></a></th>
-<th><a href="https://www.youtube.com/watch?v=FR84cNulIGs"><strong><u>Resources</u></strong></a></th>
-<th><a href="https://www.youtube.com/watch?v=QQd9W5SnXFM"><strong><u>Resources</u></strong></a></th>
+<th><a href="https://www.youtube.com/watch?v=Yau9jtRrUHk"><strong><u>Resource</u></strong></a></th>
+<th><a href="https://www.youtube.com/watch?v=FR84cNulIGs"><strong><u>Resource</u></strong></a></th>
+<th><a href="https://www.youtube.com/watch?v=QQd9W5SnXFM"><strong><u>Resource</u></strong></a></th>
 </tr>
 <tr class="odd">
 <th>Production Unit Cost</th>
@@ -155,7 +155,7 @@
 <tr class="odd">
 <th>Absolute Maximum Current for entire IC</th>
 <th><em>Find in the microcontroller datasheet</em></th>
-<th><strong>3200mA</strong></th>
+<th><strong>200mA</strong></th>
 <th><strong>70mA</strong></th>
 <th><strong>100mA</strong></th>
 </tr>
@@ -204,7 +204,7 @@
 <th><p><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/39583c.pdf"><strong><u>Hardware</u></strong></a></p>
 
 <th><p><a href="https://ww1.microchip.com/downloads/en/DeviceDoc/39583c.pdf"><strong><u>Hardware</u></strong></a></p>
-</tr>
+
 <tr class="header">
 <th>Works with <a href="https://www.microchip.com/mplab/mplab-x-ide"><u>MPLAB® X Integrated Development Environment</u></a> (IDE)?</th>
 <th><em>Required. See <a href="https://www.microchip.com/development-tools"><u>Microchip Development Tools</u></a></em></th>
@@ -249,7 +249,6 @@
 <p><strong>2) Supports more GPI/O and PWM pins</strong></p></th>
 <th><p><strong>1) Cheaper</strong></p>
 <p><strong>2) Supports Microchip Code Configurator.</strong></p></th>
-<p><strong>3)Operating voltage is around expected sensor supply voltage </strong></p></th>
 <th><p><strong>1)Low power consumption</strong></p>
 <p><strong>2)Large memory</strong></p>
 <p><strong>3)High processing speed </strong></p></th>
