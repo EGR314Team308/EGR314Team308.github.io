@@ -6,7 +6,6 @@
 
 ## Arizona State University - Travis Kelley (EGR 314)
 
-<br>
 <div>
 <h1>Table of Contents</h1>
 <ul>
