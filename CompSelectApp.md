@@ -1,5 +1,5 @@
-**Motor 505-AD8630ARZ-ND:**
-<br><br>
+### Motor 505-AD8630ARZ-ND:
+
 ![Pro](ComponentMotor.JPG)
 <br>
 
@@ -18,9 +18,11 @@ Here are the specifications for this component:
 9. Output voltage swing: ±13.5 V (minimum)
 10. Operating temperature range: -40°C to +125°C.
 
+<br>
 
-**OpAmp BD1321G-TR: **
-<br><br>
+
+### OpAmp BD1321G-TR:
+
 ![Pro](ComponentOpAmp.JPG)
 <br>
 
@@ -39,8 +41,11 @@ Here are the specifications for this component:
 9. Thermal shutdown protection
 10. Operating temperature range: -40°C to +85°C
 
-**Analog-to-digital converter (ADC) 595-ADS8924BRGET:**
-<br><br>
+
+<br>
+
+### Analog-to-digital converter (ADC) 595-ADS8924BRGET:
+
 ![Pro](ComponentADC.JPG)
 <br>
 
@@ -59,8 +64,10 @@ Here are some of its key specifications:
 9. Package: 24-pin VQFN
 
 
-**Low-dropout regulator MCP1700T-3102E/TT: **
-<br><br>
+<br>
+
+### Low-dropout regulator MCP1700T-3102E/TT:
+
 ![Pro](ComponentVoltageRegulator.JPG)
 <br>
 
@@ -79,8 +86,10 @@ Here are its key specifications:
 9. Package: SOT-23
 
 
-**Motor Driver IFX9201SGAUMA1:**
-<br><br>
+<br>
+
+### Motor Driver IFX9201SGAUMA1:
+
 ![Pro](ComponentMotorDriver.JPG)
 <br>
 
