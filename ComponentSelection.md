@@ -320,7 +320,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width:50%;height:50%" /></p>
+<th><p><img src="10.jpg" style="width:50%;height:50%" /></p>
 <p>Switching Voltage Regulator</p>
 <p>Part <strong>No.</strong></p>
 <p>LTC1502CS8-3.3#PBF</p>
@@ -341,7 +341,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="image" style="width:20%;height:20%" /></p>
+<th><p><img src="11.jpg" style="width:20%;height:20%" /></p>
 <p>Switching Voltage Regulator</p>
 <p>Part <strong>No.</strong></p>
 <p>MC7805BDTG</p>
@@ -366,7 +366,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images" style="width:40%;height:40%" /></p>
+<th><p><img src="12.jpg" style="width:40%;height:40%" /></p>
 <p>Switching Voltage Regulator</p>
 <p>Part <strong>No.</strong> MCP1700T-3102E/TT</p>
 <p><strong>Price</strong>: $0.50 Each</p>
@@ -409,7 +409,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="images" style="width:20%;height:20%" /></p>
+<th><p><img src="13.jpg" style="width:20%;height:20%" /></p>
 <p>Motor Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>IFX9201SGAUMA1</p>
@@ -433,7 +433,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="image" style="width20%;height:20%" /></p>
+<th><p><img src="14.jpg" style="width20%;height:20%" /></p>
 <p>Motor Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>EMC2301-1-ACZL-TR</p>
@@ -457,7 +457,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="image" style="width:50%;height:50%" /></p>
+<th><p><img src="15.jpg" style="width:50%;height:50%" /></p>
 <p>Motor Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>EMC2305-1-AP-TR</p>
