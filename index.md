@@ -9,15 +9,15 @@
 <div>
 <h1>Table of Contents</h1>
 <ul>
-<li><a href="https://egr314-team308.github.io/TeamOrganization.html"><u>1. Team Organization</u></a></li>
-<li><a href="https://egr314-team308.github.io/UserNeeds.html"><u>2. User Needs, Benchmarking, and Requirements</u></a></li>
-<li><a href="https://egr314-team308.github.io/DesignIdeation.html"><u>3. Design Ideation</u></a></li>
-<li><a href="https://egr314-team308.github.io/SelectedDesign.html"><u>4. Selected Design</u></a></li>
-<li><a href="https://egr314-team308.github.io/BlockDiagram.html"><u>5. Block Diagram</u></a></li>
-<li><a href="https://egr314-team308.github.io/ComponentSelection.html"><u>6. Component Selection</u></a></li>
-<li><a href="https://egr314-team308.github.io/MicrocontrollerSelection.html"><u>7. Microcontroller Selection</u></a></li>
-<li><a href="https://egr314-team308.github.io/SoftwareProposal.html"><u>8. Software Proposal</u></a></li>
-<li><a href="https://egr314-team308.github.io/HardwareProposal.html"><u>9. Hardware Proposal</u></a></li>
+<li><a href="https://egr314-team308.github.io/#team-orginization"><u>1. Team Organization</u></a></li>
+<li><a href="https://egr314-team308.github.io/#user-needs-benchmarking-and-requirements"><u>2. User Needs, Benchmarking, and Requirements</u></a></li>
+<li><a href="https://egr314-team308.github.io/#design-ideation"><u>3. Design Ideation</u></a></li>
+<li><a href="https://egr314-team308.github.io/#design-ideation"><u>4. Selected Design</u></a></li>
+<li><a href="https://egr314-team308.github.io/#block-diagram"><u>5. Block Diagram</u></a></li>
+<li><a href="https://egr314-team308.github.io/#component-selection"><u>6. Component Selection</u></a></li>
+<li><a href="https://egr314-team308.github.io/#microcontroller-selection"><u>7. Microcontroller Selection</u></a></li>
+<li><a href="https://egr314-team308.github.io/#software-proposal"><u>8. Software Proposal</u></a></li>
+<li><a href="https://egr314-team308.github.io/#hardware-proposal"><u>9. Hardware Proposal</u></a></li>
 <li><a>10. Presentation</a></li>
 </ul>
 </div>
