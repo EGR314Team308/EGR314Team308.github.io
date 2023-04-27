@@ -1,5 +1,4 @@
-
-# Mobile Weather Station Project
+<h style="text-align: center;">Mobile Weather Station Project</h>
 ## Team 308
 <p>Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis</p>
 
