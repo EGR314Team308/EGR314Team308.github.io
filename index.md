@@ -1,16 +1,13 @@
-<br>
 
-<div style="text-align: center;">
-  <h1>Mobile Weather Station Project</h1>
-  <p>Team 308</p>
-  <p>Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis</p>
-  <h2>Arizona State University - Travis Kelley (EGR 314)</h2>
-</div>
+# Mobile Weather Station Project
+## Team 308
+<p>Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis</p>
 
-<br><br>
+
+## Arizona State University - Travis Kelley (EGR 314)
 
 <div>
-<h1>Table of Contents</h1>
+<h2>Table of Contents</h2>
 <ul>
 <li><a href="https://egr314-team308.github.io/#team-orginization"><u>1. Team Organization</u></a></li>
 <li><a href="https://egr314-team308.github.io/#user-needs-benchmarking-and-requirements"><u>2. User Needs, Benchmarking, and Requirements</u></a></li>
@@ -26,17 +23,44 @@
 </div>
 <br>
 
-<h1>Table of Figures</h1>
+<h2>Table of Figures</h2>
 <li>
 <li>
 <li>
 <li>
 <li>
-
-  The goal of this project is to navigate the process of creating systems for serial sensing for a variety of uses for robotics and many others. A responsive system will be created and fabricated to be able to adapt to its environement. By the utilization of sensors, control algorithims, and actuators, an increase of effectives and efficiency will occur. The ultimate goal is to design a system with the ability to detect and respond to changes within the environement. 
+<br>
+<br>
+<br>
+<h3>Introduction</h3>
+   The goal of this project is to navigate the process of creating systems for serial sensing for a variety of uses for robotics and many others. A responsive system will be created and fabricated to be able to adapt to its environement. By the utilization of sensors, control algorithims, and actuators, an increase of effectives and efficiency will occur. The ultimate goal is to design a system with the ability to detect and respond to changes within the environement. 
 
 
   A multidisciplinary approach will be used to provide success in this project, which will combine the knowledge and aspects of both Robotic and Electrical Engineering . The ultimate objective is to develop an intelligent system that will have the ability to enhance human interaction with the environment and pave the way for a more sustainable future. 
+  
+<h4>Team Charter</h4>
+  
+<b>Team 308 would like to be successful in EGR 314 by participating in the design process and
+constructing a product that meets the given criteria. This entails the finished product being evaluated
+and graded by the instructor and the teaching team. A successful product would result in an
+acceptable grade for the group. The team would also like to be successful by learning new skills in
+hardware and software. This will be accomplished by interacting with each other and communicating
+with the instructor and teaching staff. In summary, Team 308 would like to complete the goals listed
+below:
+<li>1. Perform well academically in EGR 314
+<li>2. Create a product that successfully functions as a mobile weather station
+<li>3. Have each team member learn new skills in hardware and software
+<li>4. Interact with other teams in order to learn new methods and suggestions
+<li>5. Design and construct a product that can be added to each team member’s portfolio of
+engineering experience
+  <br></b>
+<h4>Mission Statement</h4>
+<b> Team 308 seeks to design and construct a product that functions as a mobile weather station. The
+goal is for the product to efficiently collect and transmit data from digital sensors through wireless
+connections. We will be successful when the product can be utilized to accurately and easily collect
+sensor outputs relating to immediate weather conditions.</b>
+  <br>
+ 
 
 
 <br>
