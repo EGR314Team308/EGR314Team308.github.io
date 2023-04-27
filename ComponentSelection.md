@@ -91,7 +91,8 @@
 </table>
 
 
-**Choice:** <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#opamp-bd1321g-tr"><u>BD1321G-TR</u></a>
+**Choice:** <a href="https://egr314-team308.github.io/CompSelectApp#opamp-bd1321g-tr"><u>BD1321G-TR</u></a>
+
 
 **Rationale:** Our team chose this OpAmp because it meets class requirements and is able to be surface mounted, it is a general person OpAmp which means our team could use it for multiple subsystems, and it meets the acceptable voltage range required for our design. 
 
@@ -194,7 +195,7 @@
 </table>
 
 
-**Choice:**  <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#motor-505-ad8630arz-nd"><u>505-AD8630ARZ-ND</u></a>
+**Choice:**  <a href="https://egr314-team308.github.io/CompSelectApp#motor-505-ad8630arz-nd"><u>505-AD8630ARZ-ND</u></a>
 
 
 **Rationale:** We chose this component as it is the most realistic for this type of project. Using a motor as an anemometer is cheap and simple with a constructed wind cup. As an input, the microcontroller can use the voltage changes produced by the motor’s rotation.
@@ -299,7 +300,7 @@
 </table>
 
 
-**Choice:**  <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#analog-to-digital-converter-adc-595-ads8924brget"><u>595-ADS8924BRGET</u></a>
+**Choice:**  <a href="https://egr314-team308.github.io/CompSelectApp#analog-to-digital-converter-adc-595-ads8924brget"><u>595-ADS8924BRGET</u></a>
 
 **Rationale:** Due to the moisture sensitivity the first option is unrealistic; another subsystem is meant to detect moisture. The single output can be worked with since the component is small and the pcb would only need to fit two or three. The only other physical contradiction to the choice would be soldering difficulty. 
 
@@ -320,7 +321,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="10.jpg" style="width:50%;height:50%" /></p>
+<th><p><img src="10.JPG" style="width:50%;height:50%" /></p>
 <p>Switching Voltage Regulator</p>
 <p>Part <strong>No.</strong></p>
 <p>LTC1502CS8-3.3#PBF</p>
@@ -341,7 +342,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="11.jpg" style="width:20%;height:20%" /></p>
+<th><p><img src="11.JPG" style="width:20%;height:20%" /></p>
 <p>Switching Voltage Regulator</p>
 <p>Part <strong>No.</strong></p>
 <p>MC7805BDTG</p>
@@ -366,7 +367,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="12.jpg" style="width:40%;height:40%" /></p>
+<th><p><img src="12.JPG" style="width:40%;height:40%" /></p>
 <p>Switching Voltage Regulator</p>
 <p>Part <strong>No.</strong> MCP1700T-3102E/TT</p>
 <p><strong>Price</strong>: $0.50 Each</p>
@@ -388,7 +389,7 @@
 </table>
 
 
-**Choice:** <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#low-dropout-regulator-mcp1700t-3102ett"><u>MCP1700T-3102E/TT</u></a>
+**Choice:** <a href="https://egr314-team308.github.io/CompSelectApp#low-dropout-regulator-mcp1700t-3102ett"><u>MCP1700T-3102E/TT</u></a>
 
 **Rationale:** The team chose this regulator to simplify what we have to do to meet the requirements. It was fairly difficult to find a regulator that accepts 9 volts and outputs a fixed 3.3 volts. Amplifying the output voltage would be simpler than regulating it or decreasing the input voltage by 8V. 
 
@@ -409,7 +410,7 @@
 <th><strong>Cons</strong></th>
 </tr>
 <tr class="odd">
-<th><p><img src="13.jpg" style="width:20%;height:20%" /></p>
+<th><p><img src="13.JPG" style="width:20%;height:20%" /></p>
 <p>Motor Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>IFX9201SGAUMA1</p>
@@ -433,7 +434,7 @@
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="14.jpg" style="width20%;height:20%" /></p>
+<th><p><img src="14.JPG" style="width20%;height:20%" /></p>
 <p>Motor Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>EMC2301-1-ACZL-TR</p>
@@ -457,7 +458,7 @@
 </ul></th>
 </tr>
 <tr class="odd">
-<th><p><img src="15.jpg" style="width:50%;height:50%" /></p>
+<th><p><img src="15.JPG" style="width:50%;height:50%" /></p>
 <p>Motor Driver</p>
 <p>Part <strong>No.</strong></p>
 <p>EMC2305-1-AP-TR</p>
@@ -486,7 +487,7 @@
 </table>
 
 
-**Choice:** <a href="https://github.com/egr314-team308/egr314-team308.github.io/blob/main/CompSelectApp.md#motor-driver-ifx9201sgauma1"><u>IFX9201SGAUMA1</u></a>
+**Choice:** <a href="https://egr314-team308.github.io/CompSelectApp#motor-driver-ifx9201sgauma1"><u>IFX9201SGAUMA1</u></a>
 
 **Rationale:** Our team chose this motor driver as we already have access to it through the adjacent storage room. Minimal soldering will be needed to implement it in a given circuit. Also, the component’s functionality will necessitate a voltage regulator, which is included as a subsystem. This motor driver should be able to relay the PWM signal from the microcontroller with minimal effort.
  
