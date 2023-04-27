@@ -23,6 +23,13 @@
 </div>
 <br>
 
+<h1>Table of Figures</h1>
+<li>
+<li>
+<li>
+<li>
+<li>
+
   The goal of this project is to navigate the process of creating systems for serial sensing for a variety of uses for robotics and many others. A responsive system will be created and fabricated to be able to adapt to its environement. By the utilization of sensors, control algorithims, and actuators, an increase of effectives and efficiency will occur. The ultimate goal is to design a system with the ability to detect and respond to changes within the environement. 
 
 
