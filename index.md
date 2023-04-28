@@ -9,16 +9,16 @@
 <div>
 <h2>Table of Contents</h2>
 <ul>
-<li><a href="https://egr314-team308.github.io/#team-orginization"><u>1. Team Organization</u></a></li>
-<li><a href="https://egr314-team308.github.io/#user-needs-benchmarking-and-requirements"><u>2. User Needs, Benchmarking, and Requirements</u></a></li>
-<li><a href="https://egr314-team308.github.io/#design-ideation"><u>3. Design Ideation</u></a></li>
-<li><a href="https://egr314-team308.github.io/#design-ideation"><u>4. Selected Design</u></a></li>
-<li><a href="https://egr314-team308.github.io/#block-diagram"><u>5. Block Diagram</u></a></li>
-<li><a href="https://egr314-team308.github.io/#component-selection"><u>6. Component Selection</u></a></li>
-<li><a href="https://egr314-team308.github.io/#microcontroller-selection"><u>7. Microcontroller Selection</u></a></li>
-<li><a href="https://egr314-team308.github.io/#software-proposal"><u>8. Software Proposal</u></a></li>
-<li><a href="https://egr314-team308.github.io/#hardware-proposal"><u>9. Hardware Proposal</u></a></li>
-<li><a>10. Presentation</a></li>
+<a href="https://egr314-team308.github.io/#team-organization"><u>1. Team Organization</u></a><br>
+<a href="https://egr314-team308.github.io/#user-needs-benchmarking-and-requirements"><u>2. User Needs, Benchmarking, and Requirements</u></a><br>
+<a href="https://egr314-team308.github.io/#design-ideation"><u>3. Design Ideation</u></a><br>
+<a href="https://egr314-team308.github.io/#design-ideation"><u>4. Selected Design</u></a><br>
+<a href="https://egr314-team308.github.io/#block-diagram"><u>5. Block Diagram</u></a><br>
+<a href="https://egr314-team308.github.io/#component-selection"><u>6. Component Selection</u></a><br>
+<a href="https://egr314-team308.github.io/#microcontroller-selection"><u>7. Microcontroller Selection</u></a><br>
+<a href="https://egr314-team308.github.io/#software-proposal"><u>8. Software Proposal</u></a><br>
+<a href="https://egr314-team308.github.io/#hardware-proposal"><u>9. Hardware Proposal</u></a><br>
+<a href="https://egr314-team308.github.io/#presentation"><u>10. Presentation</u></a><br>
 </ul>
 </div>
 <br>
@@ -123,7 +123,7 @@ The design and development of a hardware system that exemplifies the seamless in
 <br>
 
 
-[Presentation 1](Presentation1.md)
+<h3><a href="https://egr314-team308.github.io/Presentation1.html"><u>Presentation</u></a></h3>
 
 Our team produced a professionally recorded video of our project presentation in order to give a thorough overview of the development of our project and the design procedures we used. This video serves as a helpful summary of our previous work, displaying the thorough and original methods we used to develop our designs. The presentation gives a thorough breakdown of every design element and how it was created by our team, showcasing our artistic vision and technical proficiency. By presenting our product in this manner, we hope to highlight the effort and commitment that went into its development while simultaneously giving readers a clear idea of its features and usefulness.
 <br>
