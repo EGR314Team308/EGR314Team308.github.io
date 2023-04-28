@@ -1,6 +1,10 @@
-**Appendix A: Team Organization**
+<h1>Apendix</h1>
 
+A: **Team Organization**<br>
+B: **Bill of Materials**<br>
+C: **MCC and main.c**<br>
 
+<h2>Appendix A: Team Organization</h2>
 
 **Communication Procedures**
 
@@ -21,12 +25,15 @@ Our team will use discord to verify that assignments are submitted before the de
   
 <br><br>
 ![Communication](Communication.PNG)
+
+<br>
 <br>
 
+<h2>Appendix B: Bill of Materials</h2>
 
-**Appendix B: Component Alternatives**
 
-**Appendix C: Bill of Materials**
 
-**Appendix D: MCC and main.c**
+
+<h2>Appendix C: MCC and main.c</h2>
+
 
