@@ -16,9 +16,12 @@
 <a href="https://egr314-team308.github.io/#block-diagram"><u>5. Block Diagram</u></a><br>
 <a href="https://egr314-team308.github.io/#component-selection"><u>6. Component Selection</u></a><br>
 <a href="https://egr314-team308.github.io/#microcontroller-selection"><u>7. Microcontroller Selection</u></a><br>
-<a href="https://egr314-team308.github.io/#software-proposal"><u>8. Software Proposal</u></a><br>
-<a href="https://egr314-team308.github.io/#hardware-proposal"><u>9. Hardware Proposal</u></a><br>
+<a href="https://egr314-team308.github.io/#software-implementation"><u>8. Software Implementation</u></a><br>
+<a href="https://egr314-team308.github.io/#hardware-implementation"><u>9. Hardware Implementation</u></a><br>
 <a href="https://egr314-team308.github.io/#presentation"><u>10. Presentation</u></a><br>
+<a href="https://egr314-team308.github.io/#system-verification"><u>11. System Verification</u></a><br>
+<a href="https://egr314-team308.github.io/#lessons-learned"><u>12. Lessons Learned</u></a><br>
+<a href="https://egr314-team308.github.io/#recommendations-for-future-students"><u>13. Recommendations for Future Students</u></a><br>
 </ul>
 </div>
 <br>
@@ -66,7 +69,7 @@ sensor outputs relating to immediate weather conditions.</b>
 
 <br>
 
-<h3><a href="https://egr314-team308.github.io/TeamOrganization.html">Team Organization</a></h3>
+<h3><a href="https://egr314-team308.github.io/TeamOrganization.html"><u>Team Organization</u></a></h3>
 
 Our team first evaluated the needs of the project and assessed the syllabus to consider academic points that will need to be touched base this semester. It is incredibly important that every team member is aware of the requirements of this courses expectations. Therefore, a list of five different team charter points was created to focus on during the semester. Each point ensures the success of each team memeber in this course along with the success as a team. As a team, following these team charter points is very beneficial to the quality and achievement of our course project. We have a set goal that we will work on achieving thorught the semester by implementing our team charter onto our weather monitoring system. The teams main goal is to use our skills and knowledge and implement it into our project. 
 
@@ -111,13 +114,13 @@ The process of choosing the best microcontroller was a crucial part of our proje
 
 <br>
 
-<h3><a href="https://egr314-team308.github.io/SoftwareProposal.html"><u>Software Proposal</u></a></h3>
+<h3><a href="https://egr314-team308.github.io/SoftwareProposal.html"><u>Software Implementation</u></a></h3>
 
 Our project proposal calls for the creation of a software proposal that will be in charge of directing and coordinating the various elements of our hardware system. The program will be created to operate on a microcontroller and be in charge of reading, analyzing, and utilising data from sensors to control different actuators in the system. Capabilities for error handling and debugging were also included to make sure the software can run consistently and effectively. The goal of this software proposal is to offer a complete solution that exemplifies the capability and adaptability of our microcontroller in managing and coordinating our hardware system.
 
 <br>
 
-<h3><a href="https://egr314-team308.github.io/HardwareProposal.html"><u>Hardware Proposal</u></a></h3>
+<h3><a href="https://egr314-team308.github.io/HardwareProposal.html"><u>Hardware Implementation</u></a></h3>
 
 The design and development of a hardware system that exemplifies the seamless integration of several components working together is part of our project proposal. Our system's electrical design is essential to ensuring that all the parts work together smoothly and efficiently. In order to create a completely functional and effective system, we want to show how various hardware elements, including  microcontrollers, sensors, actuators, and power sources, interact with one another. In addition to putting a strong emphasis on effective power management and signal processing, our design also takes reliability and safety into account. With this hardware design, we hope to offer a thorough and useful solution that can be used in a variety of industries, from automation to robotics and beyond.
 
@@ -129,5 +132,58 @@ The design and development of a hardware system that exemplifies the seamless in
 Our team produced a professionally recorded video of our project presentation in order to give a thorough overview of the development of our project and the design procedures we used. This video serves as a helpful summary of our previous work, displaying the thorough and original methods we used to develop our designs. The presentation gives a thorough breakdown of every design element and how it was created by our team, showcasing our artistic vision and technical proficiency. By presenting our product in this manner, we hope to highlight the effort and commitment that went into its development while simultaneously giving readers a clear idea of its features and usefulness.
 <br>
    
+<h3><u>System Verification</u></h3>
+   
+   Blurb
+   
+<br>
+   
+<h3>Lessons Learned</h3>
+   
+1. Solder oven staions<br>
+   Surface mount comonents are small and there is very little room on the footprints for error. using the solder paste and oven is safer and there is little risk for damaging the parts since the only heat comes from the oven where the tempature and exposure to heat is exact and timed.
+   The throughhole componets (headers, wires, sockets, etc.) cannot go into the ovens, so the surface mount components must go first.
+   
+2. Serial Digital Communication<br>
+   When working with many inputs at a time, mutiple clocks, MOSI, and MISO pins might not be avalible. Being able to turn off and on the subsystems to only communicate with one is helpful to use. The software and hardware have to be in working order to make this communication work.
+   Many datasheets that explain hhow to efficiently use digital communication in the firmware, but knowing how to accomplish this consepually makes the process more streamlined.
+   
+3. Using Cadence<br>
+   Cadence is a confusing software at first, but having knowlage about an industry professional software can be helpful. 
+   
+4. Filler<br>
+   Explination
+   
+5. Filler<br>
+   Explination
+   
+6. Filler<br>
+   Explination
+   
+7. Filler<br>
+   Explination
+   
+8. Filler<br>
+   Explination
+   
+9. Filler<br>
+   Explination
+   
+10. Filler<br>
+   Explination
 
-<a href="https://egr314-team308.github.io/appendix.html"><u>Appendix A: Team Organization</u></a>
+   
+<br> 
+   
+<h3>Recommendations for future students</h3>
+   
+1.<br>
+2.<br>
+3.<br>
+4.<br>
+5.<br>
+
+   
+<br>
+
+<a href="https://egr314-team308.github.io/Appendix.html"><u>Appendix A: Team Organization</u></a>
