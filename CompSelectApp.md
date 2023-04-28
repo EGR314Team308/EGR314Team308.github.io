@@ -18,6 +18,7 @@ Here are the specifications for this component:
 9. Output voltage swing: ±13.5 V (minimum)
 10. Operating temperature range: -40°C to +125°C.
 
+<a href="https://egr314-team308.github.io/ComponentSelection#anemometer"><u>Other Anemeometers considered</u></a>
 <br>
 
 
@@ -42,6 +43,9 @@ Here are the specifications for this component:
 10. Operating temperature range: -40°C to +85°C
 
 
+<a href="https://egr314-team308.github.io/ComponentSelection#op-amp"><u>Other Operational Amplifiers considered</u></a>
+
+
 <br>
 
 ### Analog-to-digital converter (ADC) 595-ADS8924BRGET:
@@ -63,6 +67,7 @@ Here are some of its key specifications:
 8. Operating temperature range: -40°C to +85°C
 9. Package: 24-pin VQFN
 
+<a href="https://egr314-team308.github.io/ComponentSelection#analog-to-digital-converter-adc"><u>Other Analog to Digital Converters considered</u></a>
 
 <br>
 
@@ -85,6 +90,7 @@ Here are its key specifications:
 8. Operating temperature range: -40°C to +125°C
 9. Package: SOT-23
 
+<a href="https://egr314-team308.github.io/ComponentSelection#switching-voltage-regulator"><u>Other Switching Voltage regulators considered</u></a>
 
 <br>
 
@@ -105,3 +111,5 @@ Here are its key specifications:
 6. Power supply rejection ratio (PSRR): 60 dB at 1 kHz
 7. Operating temperature range: -40°C to +85°C
 8. Package: SOT-23-5 
+
+<a href="https://egr314-team308.github.io/ComponentSelection#motor-driver"><u>Other Motor Drivers considered</u></a>
