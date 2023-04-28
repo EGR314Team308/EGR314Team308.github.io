@@ -22,3 +22,11 @@ Our team will use discord to verify that assignments are submitted before the de
 <br><br>
 ![Communication](Communication.PNG)
 <br>
+
+
+**Appendix B: Component Alternatives**
+
+**Appendix C: Bill of Materials**
+
+**Appendix D: MCC and main.c**
+
