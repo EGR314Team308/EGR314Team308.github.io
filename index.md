@@ -29,6 +29,7 @@
 <li>
 <li>
 <li>
+   
 <br>
 <br>
 <br>
@@ -127,6 +128,6 @@ The design and development of a hardware system that exemplifies the seamless in
 
 Our team produced a professionally recorded video of our project presentation in order to give a thorough overview of the development of our project and the design procedures we used. This video serves as a helpful summary of our previous work, displaying the thorough and original methods we used to develop our designs. The presentation gives a thorough breakdown of every design element and how it was created by our team, showcasing our artistic vision and technical proficiency. By presenting our product in this manner, we hope to highlight the effort and commitment that went into its development while simultaneously giving readers a clear idea of its features and usefulness.
 <br>
+   
 
-
-[Appendix A: Team Organization](Appendix.md)
+<a href="https://egr314-team308.github.io/appendix.html"><u>Appendix A: Team Organization</u></a>
