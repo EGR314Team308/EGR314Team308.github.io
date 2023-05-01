@@ -109,7 +109,6 @@ These components are mostly set in stone. Each person in the group is free to ch
    
 
  <h3>Power Budget:</h3>
-<br>
    <p><img src="PowerBudget.jpg" style="width20%;height:20%" /></p>
 
 This is the power budget for all of our main components It shows our device is to run for 160 hours on a 9 volt battery. Meaning we have about a week of runtime.
