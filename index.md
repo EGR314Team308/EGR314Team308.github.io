@@ -149,36 +149,36 @@ Our team produced a professionally recorded video of our project presentation in
    
 <h3>Lessons Learned</h3>
    
-1. Solder oven staions:<br>
+1. Solder oven staions<br>
    Surface mount comonents are small and there is very little room on the footprints for error. using the solder paste and oven is safer and there is little risk for damaging the parts since the only heat comes from the oven where the tempature and exposure to heat is exact and timed.
    The throughhole componets (headers, wires, sockets, etc.) cannot go into the ovens, so the surface mount components must go first.
    
-2. Serial Digital Communication:<br>
+2. Serial Digital Communication<br>
    When working with many inputs at a time, mutiple clocks, MOSI, and MISO pins might not be avalible. Being able to turn off and on the subsystems to only communicate with one is helpful to use. The software and hardware have to be in working order to make this communication work.
    Many datasheets that explain hhow to efficiently use digital communication in the firmware, but knowing how to accomplish this consepually makes the process more streamlined.
    
-3. Using Cadence:<br>
+3. Using Cadence<br>
    Cadence is a confusing software at first, but having knowlage about an industry professional software can be helpful. 
    
-4. Ordering Excess Parts:<br>
+4. Ordering Excess Parts<br>
   The team learned that it is important to order plenty of parts to ensure that there is enough. This is so the team can still have enough parts in the event that a part doesn't work. Not having enough parts can delay the functionality of a subsystem and cause many issues. 
    
-5. Quality Assurance:<br>
+5. Quality Assurance<br>
    The group discovered how crucial it is to carry out thorough quality verification on the PCB before attaching any components to it. The team was able to find any flaws by doing a continuity check before they became major ones later on in the design phase. This made it easier to make sure the finished item was correctly designed and performed as anticipated.
    
-6. Using 0-ohm resistors:<br>
+6. Using 0-ohm resistors<br>
    The team learned that you can use 0-ohm resistors in order to make test       points on your PCB and this is crucial to make testing your board's           subsystems a streamlined process. 
    
-7. Be sure to check the mounting option:<br>
+7. Be sure to check the mounting option<br>
    When creating your PCB be sure to check what mounting option you select so    that you do not accidentally make a surface mount component a through-hole    one. 
    
-8. Having an updated folder structure helps organize where everything is and    makes everything easily accessible:<br>
+8. Having an updated folder structure helps organize where everything is and    makes everything easily accessible<br>
    When creating the folder structure be sure to constantly update it so that    you do not fall behind and so that necessary files are available at all      times to every team member.
    
-9. Following course requirements as they change or are adapted is very important:<br>
+9. Following course requirements as they change or are adapted is very important<br>
    The group learned that you need to make sure you follow specific              requirements laid out in the rubric and continue to make sure that you        follow them all throughout the project. 
    
-10. Make sure to restart the cadence software every so often in order to keep it from causing weird errors and crashing itself:<br>
+10. Make sure to restart the cadence software every so often in order to keep it from causing weird errors and crashing itself<br>
    The group realized that due to having cadence running almost 24/7 for around a month that it would start causing errors with the software and cause it to corrupt certain files. 
 
    
