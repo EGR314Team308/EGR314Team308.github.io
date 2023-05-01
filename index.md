@@ -134,9 +134,9 @@ The design and development of a hardware system that exemplifies the seamless in
 
 Our project proposal calls for the creation of a software proposal that will be in charge of directing and coordinating the various elements of our hardware system. The program will be created to operate on a microcontroller and be in charge of reading, analyzing, and utilising data from sensors to control different actuators in the system. Capabilities for error handling and debugging were also included to make sure the software can run consistently and effectively. The goal of this software proposal is to offer a complete solution that exemplifies the capability and adaptability of our microcontroller in managing and coordinating our hardware system.
    
-   <p><img src="Block_Diagram.JPG" style="width20%;height:20%" /></p>
+   <p><img src="Block_Diagram.JPG" style="width20%;height:20%;align:center;" /></p>
    <br>
-   <p><img src="Software_Proposal.JPG" style="width20%;height:20%" /></p>
+   <p><img src="Software_Proposal.JPG" style="width20%;height:20%;align:center" /></p>
 <br>
 
 
