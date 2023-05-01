@@ -12,3 +12,12 @@ Although the humidity sensor and the motor driver are their own separate compone
 ![Diagram](HardwareProposal.jpg)
 <br>
 
+This was the previous board. We had to change multiple things for this project to fit user and class needs. The anemeometer had to be added into the schematic so that the microcontroller took in multiple data points. The motor driver circut is incorrect to the point of no function, so this also had to be fixed. Lastly the external ADC connected to the humidity sensor is not connected to anything, making it impossible to control if the microcontroller gets data. 
+<br>
+This was due to severe miscommunication, poorly guided feedback, and a misunderstanding of the subsystems in palce. 
+
+<br><br>
+![Diagram](HardwareProposal.JPG)
+<br>
+
+<a href="https://egr314-team308.github.io/Appendix#appendix-b-bill-of-materials"><u>Bill of materials</u></a><br>
