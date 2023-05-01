@@ -4,7 +4,7 @@
 <p style="text-align: center;">Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis</p>
 
 
-## Arizona State University - Travis Kelley (EGR 314)
+<h2 style="text-align: center;">Arizona State University - Travis Kelley (EGR 314)</h2>
 
 <div>
 <h2>Table of Contents</h2>
