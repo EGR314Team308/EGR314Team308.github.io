@@ -191,14 +191,13 @@ Our team produced a professionally recorded video of our project presentation in
 4.           Work together as a team: Collaborating on a project as a team can be difficult yet vital. To keep everyone on the same page, students should organize regular meetings, distribute duties appropriately, and use good communication with their team members. For the project to be finished, cooperation is crucial.
    <br>
      <br>
-  
-   5.     Ordering additional parts in plenty of quantity is strongly advised. The rigorous hardware design and debugging required for the course increases the likelihood of component failure. By ordering extra components, you may cut down on the time, money, and delays that come with buying hardware.
+5.   Ordering additional parts in plenty of quantity is advised. The rigorous hardware design and debugging required for the course increases the likelihood of component failure. By ordering extra components, you may cut down on the time, money, and delays that come with buying hardware.
+   
   <br>
-     <br>
-
+   <br>
 6.    Early and frequent testing is essential to the design of embedded systems. Every step of the design process should include testing the PCB and subsystems created by the students. By doing this, they will be able to see any concerns early on and address them.
   <br>
-<br>
+   <br>
 7.     Embedded system design may be complicated, and students may run into issues they are unable to resolve on their own. Don't be hesitant to ask for assistance. They shouldn't be embarrassed to approach their teacher or fellow students for assistance. They may offer insightful advice and recommendations that might support students in overcoming any challenges they may run across.
 <br>
      <br>
