@@ -105,7 +105,9 @@ The block diagram is an essential component that will graphically represent the 
 
 Our team had to carefully study and assess numerous important components for each subsystem as part of the component selection process. Our team chose the components with an uncompromising focus on quality, a sharp eye for detail, and a well-thought-out justification that guaranteed their ideal performance and compatibility with the system. It is important to note that the microcontroller selection procedure was carried out independently and will be covered in a separate section. 
 These components are mostly set in stone. Each person in the group is free to choose another component as long as it is represented in the current documents. As the team sees it, this portion of the project is complete, because all persons on the team have made individual schematics and combined them into the hardware proposal.
-<br><br>
+<br>
+In accordance to the formatting instructions given in the checkpoint assignments, the information detailing component selection is present in the associated subpage.   
+<br>
    
 
  <h3>Power Budget:</h3>
