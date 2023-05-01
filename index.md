@@ -107,7 +107,7 @@ Our team had to carefully study and assess numerous important components for eac
 These components are mostly set in stone. Each person in the group is free to choose another component as long as it is represented in the current documents. As the team sees it, this portion of the project is complete, because all persons on the team have made individual schematics and combined them into the hardware proposal.
 <br>
 In accordance to the formatting instructions given in the checkpoint assignments, the information detailing component selection is present in the associated subpage.   
-<br>
+<br><br>
    
 
  <h3>Power Budget:</h3>
