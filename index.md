@@ -166,20 +166,20 @@ Our team produced a professionally recorded video of our project presentation in
 5. Quality Assurance<br>
    The group discovered how crucial it is to carry out thorough quality verification on the PCB before attaching any components to it. The team was able to find any flaws by doing a continuity check before they became major ones later on in the design phase. This made it easier to make sure the finished item was correctly designed and performed as anticipated.
    
-6. Filler<br>
-   Explination
+6. Using 0-ohm resistors<br>
+   The team learned that you can use 0-ohm resistors in order to make test       points on your PCB and this is crucial to make testing your board's           subsystems a streamlined process. 
    
-7. Filler<br>
-   Explination
+7. Be sure to check the mounting option<br>
+   When creating your PCB be sure to check what mounting option you select so    that you do not accidentally make a surface mount component a through-hole    one. 
    
-8. Filler<br>
-   Explination
+8. Having an updated folder structure helps organize where everything is and    makes everything easily accessible<br>
+   When creating the folder structure be sure to constantly update it so that    you do not fall behind and so that necessary files are available at all      times to every team member.
    
-9. Filler<br>
-   Explination
+9. Following course requirements as they change or are adapted is very important<br>
+   The group learned that you need to make sure you follow specific              requirements laid out in the rubric and continue to make sure that you        follow them all throughout the project. 
    
-10. Filler<br>
-   Explination
+10. Make sure to restart the cadence software every so often in order to keep it from causing weird errors and crashing itself<br>
+   The group realized that due to having cadence running almost 24/7 for around a month that it would start causing errors with the software and cause it to corrupt certain files. 
 
    
 <br> 
