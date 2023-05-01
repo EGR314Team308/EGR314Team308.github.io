@@ -77,7 +77,7 @@ Our team first evaluated the needs of the project and assessed the syllabus to c
 
 <h3><a href="https://egr314-team308.github.io/UserNeeds.html"><u>User Needs, Benchmarking, and Requirements</u></a></h3>
 
-After carefule consideration of our mission statement and charter, we later moved onto laying out potential user needs and requirements that are needed to the prototype. To create user needs, we used existing customer comments to similiar products to capture thier needs and recognize solutions to thier issues. This allowed us to create the most precise user needs and solutions to create a product that serves customer satisfaction and user friendliness. The user needs collected and created were then organized and tranferred into a clear list that will be focused on thorught the creation of this project. By doing this, it allows us to use engineering skills to enable these needs within our prototype. 
+After careful consideration of our mission statement and charter, we later moved onto laying out potential user needs and requirements that are needed to the prototype. To create user needs, we used existing customer comments to similiar products to capture thier needs and recognize solutions to thier issues. This allowed us to create the most precise user needs and solutions to create a product that serves customer satisfaction and user friendliness. The user needs collected and created were then organized and tranferred into a clear list that will be focused on thorught the creation of this project. By doing this, it allows us to use engineering skills to enable these needs within our prototype. 
  
 <br> 
 
@@ -105,6 +105,13 @@ The block diagram is an essential component that will graphically represent the 
 
 Our team had to carefully study and assess numerous important components for each subsystem as part of the component selection process. Our team chose the components with an uncompromising focus on quality, a sharp eye for detail, and a well-thought-out justification that guaranteed their ideal performance and compatibility with the system. It is important to note that the microcontroller selection procedure was carried out independently and will be covered in a separate section. 
 These components are mostly set in stone. Each person in the group is free to choose another component as long as it is represented in the current documents. As the team sees it, this portion of the project is complete, because all persons on the team have made individual schematics and combined them into the hardware proposal, which you may direct to or ask about.
+<br>
+ **Power Budget:**
+<br><br>
+![Pro](PowerBudget.jpg)
+<br>
+
+This is the power budget for all of our main components It shows our device is to run for 160 hours on a 9 volt battery. Meaning we have about a week of runtime.
 
 <br>
 
