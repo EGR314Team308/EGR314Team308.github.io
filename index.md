@@ -151,11 +151,11 @@ Our team produced a professionally recorded video of our project presentation in
 3. Using Cadence<br>
    Cadence is a confusing software at first, but having knowlage about an industry professional software can be helpful. 
    
-4. Filler<br>
-   Explination
+4. Ordering Excess Parts<br>
+  The team learned that it is important to order plenty of parts to ensure that there is enough. This is so the team can still have enough parts in the event that a part doesn't work. Not having enough parts can delay the functionality of a subsystem and cause many issues. 
    
-5. Filler<br>
-   Explination
+5. Quality Assurance<br>
+   The group discovered how crucial it is to carry out thorough quality verification on the PCB before attaching any components to it. The team was able to find any flaws by doing a continuity check before they became major ones later on in the design phase. This made it easier to make sure the finished item was correctly designed and performed as anticipated.
    
 6. Filler<br>
    Explination
