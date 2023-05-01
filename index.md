@@ -215,4 +215,4 @@ Our team produced a professionally recorded video of our project presentation in
   <br> 
 <br>
 
-<a href="https://egr314-team308.github.io/Appendix.html"><u>Appendix A: Team Organization</u></a>
+<h2><a href="https://egr314-team308.github.io/Appendix.html"><u>Appendix A: Team Organization</u></a></h2>
