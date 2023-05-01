@@ -57,7 +57,7 @@ below:
 <li>4. Interact with other teams in order to learn new methods and suggestions
 <li>5. Design and construct a product that can be added to each team member’s portfolio of
 engineering experience
-  <br></b>
+  <br>
 <h4>Mission Statement</h4>
 <b> Team 308 seeks to design and construct a product that functions as a mobile weather station. The
 goal is for the product to efficiently collect and transmit data from digital sensors through wireless
