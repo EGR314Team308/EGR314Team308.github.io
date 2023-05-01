@@ -1,7 +1,7 @@
 
-# Mobile Weather Station Project
-## Team 308
-<p>Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis</p>
+<h1 style="text-align: center;">Mobile Weather Station Project</h1>
+<h2 style="text-align: center;">Team 308</h2>
+<p style="text-align: center;">Marla Hawthorne, Andrew Sarrasin, Lina Mayyas, Jeffrey Davis</p>
 
 
 ## Arizona State University - Travis Kelley (EGR 314)
