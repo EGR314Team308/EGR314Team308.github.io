@@ -123,15 +123,16 @@ The process of choosing the best microcontroller was a crucial part of our proje
 
 <br>
 
-<h3><a href="https://egr314-team308.github.io/SoftwareProposal.html"><u>Software Implementation</u></a></h3>
-
-Our project proposal calls for the creation of a software proposal that will be in charge of directing and coordinating the various elements of our hardware system. The program will be created to operate on a microcontroller and be in charge of reading, analyzing, and utilising data from sensors to control different actuators in the system. Capabilities for error handling and debugging were also included to make sure the software can run consistently and effectively. The goal of this software proposal is to offer a complete solution that exemplifies the capability and adaptability of our microcontroller in managing and coordinating our hardware system.
-
-<br>
 
 <h3><a href="https://egr314-team308.github.io/HardwareProposal.html"><u>Hardware Implementation</u></a></h3>
 
 The design and development of a hardware system that exemplifies the seamless integration of several components working together is part of our project proposal. Our system's electrical design is essential to ensuring that all the parts work together smoothly and efficiently. In order to create a completely functional and effective system, we want to show how various hardware elements, including  microcontrollers, sensors, actuators, and power sources, interact with one another. In addition to putting a strong emphasis on effective power management and signal processing, our design also takes reliability and safety into account. With this hardware design, we hope to offer a thorough and useful solution that can be used in a variety of industries, from automation to robotics and beyond.
+
+<br>
+   
+<h3><a href="https://egr314-team308.github.io/SoftwareProposal.html"><u>Software Implementation</u></a></h3>
+
+Our project proposal calls for the creation of a software proposal that will be in charge of directing and coordinating the various elements of our hardware system. The program will be created to operate on a microcontroller and be in charge of reading, analyzing, and utilising data from sensors to control different actuators in the system. Capabilities for error handling and debugging were also included to make sure the software can run consistently and effectively. The goal of this software proposal is to offer a complete solution that exemplifies the capability and adaptability of our microcontroller in managing and coordinating our hardware system.
 
 <br>
 
