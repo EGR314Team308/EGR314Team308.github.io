@@ -27,11 +27,11 @@
 <br>
 
 <h2>Table of Figures</h2>
-<li>
-<li>
-<li>
-<li>
-<li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
    
 <br>
 <br>
