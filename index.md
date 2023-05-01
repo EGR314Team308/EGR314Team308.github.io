@@ -191,8 +191,7 @@ Our team produced a professionally recorded video of our project presentation in
 4.           Work together as a team: Collaborating on a project as a team can be difficult yet vital. To keep everyone on the same page, students should organize regular meetings, distribute duties appropriately, and use good communication with their team members. For the project to be finished, cooperation is crucial.
    <br>
      <br>
-   
-   
+  
    5.     Ordering additional parts in plenty of quantity is strongly advised. The rigorous hardware design and debugging required for the course increases the likelihood of component failure. By ordering extra components, you may cut down on the time, money, and delays that come with buying hardware.
   <br>
      <br>
