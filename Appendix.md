@@ -31,7 +31,24 @@ Our team will use discord to verify that assignments are submitted before the de
 
 <h2>Appendix B: Bill of Materials</h2>
 
+<br>
 
+| Name          | Part#         |    Quantity   |   Unit Price  | Total Price   |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+|General Operational Aplifier		|BD1321G-TR				|3	|$0.69	|$ 2.07|	
+|DC Motor					|505-AD8630ARZ-ND			|2	|$3.86 	|$ 7.72|
+|Motor Driver				|IFX9201SGAUMA1	 		|4	|$4.88 	|$ 19.52| 
+|Switching Voltage Regulator		|AP63203WU-7			|5	|$0.80 	|$ 4.00 |
+|Microcontroller				|PIC18LF27K40-I/SO		|3	|$2.39 	|$ 7.17 |
+|330k resistor				|RMCF2512JT330K			|10	|$0.23 	|$ 2.30 |
+|Humidty Sensor				|HIH-5030-001			|3	|$27.04	|$ 81.12| 
+|68k resistor 				|PFC-W1206LF-03-6812-B		|8	|$1.02	|$ 8.18 |
+|Analog to Digital Converter		|LTC2361ITS8			|4	|$6.63	|$ 26.52|
+|Analog to Digital Converter		|MCP3201-CI/SN			|4	|$3.20	|$ 12.80|
+|Capacitor 0.1				|CL05A104KA5NNNC			|100	|$0.0045 	|$ 0.45 |
+|				|			|	|Subtotal	|$ 171.85 |
+|				|			|	|Tax	|$ 1.46 |
+|				|			|	|Grand Total	|$ 173.31 |
 
 
 <h2>Appendix C: MCC and main.c</h2>
