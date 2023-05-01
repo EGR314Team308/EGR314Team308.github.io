@@ -176,14 +176,27 @@ Our team produced a professionally recorded video of our project presentation in
 <br> 
    
 <h3>Recommendations for future students</h3>
-   
-1.<br>
-2.<br>
-3.<br>
-4.<br>
-5.<br>
-
-   
+   Here are some suggestions to assist students who are enrolled in EGR 314, an embedded system design course that requires them to develop a project for a mobile weather station:
+<br>
+     <br>
+1.  Getting Started Early: Embedded system design takes a lot of time and work. It is advised to begin the project as soon as possible, thoroughly comprehend the project's needs, develop the design, and order all essential parts. Starting early will also give you ample time to debug and address any problems that may come up while you are designing and testing.
+   <br>
+     <br>
+2.       Learn the fundamentals of PCB design because this course requires you to create a PCB, thus you must be familiar with these ideas. Students might begin by becoming familiar with the various PCB parts, schematics, and designing tools. They can get started with the help of numerous online resources, tutorials, and videos.
+<br>
+     <br>
+3.           Work together as a team: Collaborating on a project as a team can be difficult yet vital. To keep everyone on the same page, students should organize regular meetings, distribute duties appropriately, and use good communication with their team members. For the project to be finished, cooperation is crucial.
+   <br>
+     <br>
+4.        Early and frequent testing is essential to the design of embedded systems. Every step of the design process should include testing the PCB and subsystems created by the students. By doing this, they will be able to see any concerns early on and address them.
+  <br>
+<br>
+5.     Embedded system design may be complicated, and students may run into issues they are unable to resolve on their own. Don't be hesitant to ask for assistance. They shouldn't be embarrassed to approach their teacher or fellow students for assistance. They may offer insightful advice and recommendations that might support students in overcoming any challenges they may run across.
+<br>
+     <br>
+   Students can develop a useful mobile weather station and pass the course by adhering to these suggestions. It's crucial to retain an open mind, absorb lessons from errors, and find pleasure in the process.
+  <br>
+  <br> 
 <br>
 
 <a href="https://egr314-team308.github.io/Appendix.html"><u>Appendix A: Team Organization</u></a>
