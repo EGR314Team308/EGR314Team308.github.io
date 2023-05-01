@@ -134,7 +134,7 @@ Our team produced a professionally recorded video of our project presentation in
    
 <h3><u>System Verification</u></h3>
    
-   Blurb
+   <p><img src="Completed_Verification_Table.jpg" style="width20%;height:20%" /></p>
    
 <br>
    
