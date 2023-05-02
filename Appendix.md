@@ -60,7 +60,7 @@ Our team will use discord to verify that assignments are submitted before the de
    <p><img src="Pin_Module.JPG" style="width20%;height:20%;align:center" /></p>
    <br>
    <p style="text-align: center;">Main.c</p>
-   <code>
+   <code>{
    
 #include "mcc_generated_files/mcc.h"
 #pragma LVP = ON
@@ -197,7 +197,7 @@ void main(void)
         
     }
 }
-   </code>
+   }</code>
    
 
 <br>
