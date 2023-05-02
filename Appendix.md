@@ -53,7 +53,7 @@ Our team will use discord to verify that assignments are submitted before the de
 
 
 <h2>Appendix C: MCC and main.c</h2>
-   <p style="text-align: center;">Flat View/p>
+   <p style="text-align: center;">Flat View</p>
    <p><img src="Flat_View.JPG" style="width20%;height:20%;align:center;" /></p>
    <br>
    <p style="text-align: center;">Pin Module</p>
