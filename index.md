@@ -27,11 +27,34 @@
 <br>
 
 <h2>Table of Figures</h2>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+   <li>118 LED Solar Light
+   <li>Solar Motion Sensor Alarm
+   <li>Wind Gauge
+   <li>Newentor Indoor/Outdoor Weather display
+   <li>AcuRite Wireless Digital Rain Gauge
+   <li>Orginized Jamborad
+   <li>Sorted Jamborad
+   <li>Generated ideas Jamborad 1
+   <li>Generated ideas Jamborad 2
+   <li>Generated ideas Jamborad 3
+   <li>Consept 1 Grouped Jamborad
+   <li>Consept 2 Grouped Jamborad
+   <li>Consept 3 Grouped Jamborad
+   <li>Remaining Consept Jamborad
+   <li>Selected design consepual image
+   <li>Power Budget
+   <li>Operational Amplifier used
+   <li>Motor used
+   <li>Analog to Digital Coverter used
+   <li>Switching Voltage Regulator used
+   <li>Motor Driver used
+   <li>Pin layout
+   <li>Microcontroller
+   <li>Block Diagram
+   <li>Software Proposal
+   <li>Implemented Hardware
+   <li>Previous Hardware
+   <li>Verification Table
    
 <br>
 <br>
