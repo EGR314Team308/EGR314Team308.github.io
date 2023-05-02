@@ -150,13 +150,13 @@ The software diagram satisfies the user needs as it recieves and transmits infor
   2.  The loop type was changed from a for loop to a series of nested if/else statements. This is simply for logic simplicity.
   <br>
      <br>
-3.       
+3.    The data type was changed from integers to floating point variables. The original intention was to remove mathematical issues that arose with previous work. However, the team found that the MPLabX program dislikes rapidly changing variables and generated many errors. As such, the type was changed to a float.   
 <br>
      <br>
-4.           
+4.    The two intitialization functions were combined into a single startup function. This is for simplicity.       
    <br>
      <br>
-5.   
+5.   The motor statements were redone to better signify change in direction. The original names signified voltage states and not direction. As such, they were simplified to forward and backwards.
    
   <br>
    <br>
