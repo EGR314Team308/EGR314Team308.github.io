@@ -3,6 +3,7 @@
 A: **Team Organization**<br>
 B: **Bill of Materials**<br>
 C: **MCC and main.c**<br>
+D: **MQTT Topic Table**<br>
 
 <h2>Appendix A: Team Organization</h2>
 
@@ -52,5 +53,12 @@ Our team will use discord to verify that assignments are submitted before the de
 
 
 <h2>Appendix C: MCC and main.c</h2>
+   <p style="text-align: center;">Flat View/p>
+   <p><img src="Flat_View.JPG" style="width20%;height:20%;align:center;" /></p>
+   <br>
+   <p style="text-align: center;">Pin Module</p>
+   <p><img src="Pin_Module.JPG" style="width20%;height:20%;align:center" /></p>
 
-
+<h2>Appendix D: MQTT Topic Table</h2>
+   <p style="text-align: center;">Topic Table</p>
+   <p><img src="Topic_Table.JPG" style="width20%;height:20%;align:center" /></p>
