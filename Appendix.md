@@ -1,4 +1,4 @@
-<h1>Apendix</h1>
+<h1>Appendix</h1>
 
 A: **Team Organization**<br>
 B: **Bill of Materials**<br>
