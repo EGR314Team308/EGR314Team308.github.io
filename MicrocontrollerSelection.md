@@ -278,15 +278,15 @@
 </tbody>
 </table>
 
-**Final Microcontroller Choice**: PIC24HJ128GP504-I/PT
+**Final Microcontroller Choice**: PIC18LF27K40-I/SO
 
-Rationale: We will be using the PIC24HJ128GP504-I/PT as it has ESP32 along with SPI support. It also has all the I/O and PWM pins that we will be needing for our project. Alongside with this, it was one of the few microcontrollers that the team was able to find that will be able to ship and arrive in time. All other microcontrollers needed months to be shipped.
+Rationale: We will be using the PIC18LF27K40-I/SO as it has SPI support, which we need for multiple subsystems. It also has all the I/O and PWM pins that we will be needing for our project. Alongside with this, it was one of the few microcontrollers that the team was able to find that will be able to ship and arrive in time. Most other microcontrollers needed months to be shipped.
  
 <br><br>
-![Diagram](PICPinOut.JPG)
+![Diagram](ActualPIClayout.jpg)
 <br>
 <br><br>
-![Diagram](PIC24.jpg)
+![Diagram](ActualPIC.jpg)
 <br>
 
 
