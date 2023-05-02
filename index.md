@@ -160,7 +160,13 @@ The software diagram satisfies the user needs as it recieves and transmits infor
    
   <br>
    <br>
+<p style="text-align: center;">Version 2.0 Discussion</p>
 <br>
+   
+As seen in the software diagram above and the main.c code present in Appendix C, the primary component of the software are if/else statements. The primary improvement that the team would take would be making designated functions for each input, with a focus on the output. What this means is that each if/else statement would be designated to one sensor. The team believes that the current code could be confusing and lead to errors if modified in the future. However, the current code does result in a combined string with the two output variables. Another benifit from this change in the code is that the debuggablility will be greatly improved. Each variable can have a breakpoint in order to ensure connection and valid input. The team is unsure what peripherals would be helpful to add in a future version as our knowledge of the software is in accordance to what was instructed. However, we believe that the peripherals currently implemented satisfy the needs of the software.
+   
+<br>
+
 <h3><a href="https://egr314-team308.github.io/Presentation1.html"><u>Presentation</u></a></h3>
 
 Our team produced a professionally recorded video of our project presentation in order to give a thorough overview of the development of our project and the design procedures we used. This video serves as a helpful summary of our previous work, displaying the thorough and original methods we used to develop our designs. The presentation gives a thorough breakdown of every design element and how it was created by our team, showcasing our artistic vision and technical proficiency. By presenting our product in this manner, we hope to highlight the effort and commitment that went into its development while simultaneously giving readers a clear idea of its features and usefulness.
