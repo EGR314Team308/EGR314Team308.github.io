@@ -140,7 +140,27 @@ Our project proposal calls for the creation of a software proposal that will be 
    <p><img src="Software_Proposal.JPG" style="width20%;height:20%;align:center" /></p>
 <br>
 
-
+The software diagram satisfies the user needs as it recieves and transmits information from physical sensory input to an electronic device. The anemeometer and humidity sensor will connect to the selected PIC as digital signals. The signals must by assigned to individual variables and combined into a result string. They are then sent to the ESP32 for MQTT uploading to the server.
+<br>
+<p style="text-align: center;">Changes to Software Design</p>
+<br>
+1.  The interrupt location was changed to account for two types of input. Although they are both digital, their status as floating point variables required specialized code.
+   <br>
+     <br>
+  2.  The loop type was changed from a for loop to a series of nested if/else statements. This is simply for logic simplicity.
+  <br>
+     <br>
+3.       
+<br>
+     <br>
+4.           
+   <br>
+     <br>
+5.   
+   
+  <br>
+   <br>
+<br>
 <h3><a href="https://egr314-team308.github.io/Presentation1.html"><u>Presentation</u></a></h3>
 
 Our team produced a professionally recorded video of our project presentation in order to give a thorough overview of the development of our project and the design procedures we used. This video serves as a helpful summary of our previous work, displaying the thorough and original methods we used to develop our designs. The presentation gives a thorough breakdown of every design element and how it was created by our team, showcasing our artistic vision and technical proficiency. By presenting our product in this manner, we hope to highlight the effort and commitment that went into its development while simultaneously giving readers a clear idea of its features and usefulness.
