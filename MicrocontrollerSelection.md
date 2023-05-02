@@ -6,7 +6,7 @@
 <col style="width: 35%" />
 <col style="width: 25%" />
 </colgroup>
-<thead>
+
 
 
 <table>
@@ -284,14 +284,5 @@ Rationale: We will be using the PIC18LF27K40-I/SO as it has SPI support, which w
  
 <br><br>
 ![Diagram](ActualPIClayout.jpg)
-<br>
-<br><br>
+
 ![Diagram](ActualPIC.jpg)
-<br>
-
-
-
-
-
-
-
