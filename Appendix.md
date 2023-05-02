@@ -60,23 +60,23 @@ Our team will use discord to verify that assignments are submitted before the de
    <p><img src="Pin_Module.JPG" style="width20%;height:20%;align:center" /></p>
    <br>
    <p style="text-align: center;">Main.c</p>
-   <code>{
    
-#include "mcc_generated_files/mcc.h"
-#pragma LVP = ON
-/*
-                         Main application
- */
+   <code>
+   #include "mcc_generated_files/mcc.h"
+   #pragma LVP = ON
+   /*
+                            Main application
+    */
 
-uint8_t data1;
-uint8_t data12;
-int ii;
-float value;
+   uint8_t data1;
+   uint8_t data12;
+   int ii;
+   float value;
 
-bool loop = true;
+   bool loop = true;
 
-void EUSART1intrrupt(void){
-    EUSART1_Receive_ISR();
+   void EUSART1intrrupt(void){
+       EUSART1_Receive_ISR();
 
     if(EUSART1_is_rx_ready()){
         data1 = EUSART1_Read();
@@ -196,7 +196,7 @@ void main(void)
         
         
     }
-}
+   }
    </code>
    
 
